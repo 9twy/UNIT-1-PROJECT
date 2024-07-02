@@ -1,0 +1,10 @@
+Riyadh university gate (RUG)
+Requirement:
+-sholud be admin to update the faculaty member data 
+-should enable new doctors to add to our dataset
+-the system should enable the users to register.
+-the system should consist of theses parts : a-userInterface b-graduation project exhibition c-collaboartive projects. d-emailing faculaty members e-search for a facultay member f-registration
+-the user sholud be able to email the faculaty members .
+-the user should be able to get data about the faculaty mebmers.
+-the system should classify well the graudation projects .
+

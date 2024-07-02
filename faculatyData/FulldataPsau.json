@@ -1,0 +1,4582 @@
+[
+    {
+        "Name": "د.تهاني ابراهيم محمد الدسيماني",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "t.aldosemani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/t.aldosemani"
+    },
+    {
+        "Name": "د.عبدالعزيز عبدالله سعد الداعج",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم نظم المعلومات",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "a.aldaej@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.aldaej"
+    },
+    {
+        "Name": "د.انوار حماد محسن الرشيدي",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم علم النفس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "a.alrashidi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alrashidi"
+    },
+    {
+        "Name": "د.خالد عبدالرحمن عبدالله العسكر",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الدراسات الاسلامية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "k.alaskar@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/k.alaskar"
+    },
+    {
+        "Name": "أ.د.خالد عبدالله غازي العتيبي",
+        "doctor_info": [
+            "أستاذ",
+            "قسم علم النفس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "ka.alotaibi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ka.alotaibi"
+    },
+    {
+        "Name": "د.مها عبدالعزيز عبدالرحمن ال عبدالكريم",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "m.abdulkareem@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.abdulkareem"
+    },
+    {
+        "Name": "د.عبير محمد مسفر القحطاني",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "abeer.alqahtani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/abeer.alqahtani"
+    },
+    {
+        "Name": "أ.د.عبدالله محمد عبدالله العسكر",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الدراسات الاسلامية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "alaskar@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/alaskar"
+    },
+    {
+        "Name": "د.خالد احمد عبدالعال ابراهيم",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم علم النفس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "ka.ibrahim@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ka.ibrahim"
+    },
+    {
+        "Name": "أ.د.أحمد صالح محمد البراك",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الدراسات الاسلامية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "as.albarrak@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/as.albarrak"
+    },
+    {
+        "Name": "أ.لماء محمود صالح حبابي",
+        "doctor_info": [
+            "محاضر",
+            "قسم علم النفس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "l.hababi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/l.hababi"
+    },
+    {
+        "Name": "د.خوله فهد بخيت الصفار",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علم النفس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "k.alsafar@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/k.alsafar"
+    },
+    {
+        "Name": "أ.امل مبارك سالم ال سويلم",
+        "doctor_info": [
+            "محاضر",
+            "قسم علم النفس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "a.alswllim@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alswllim"
+    },
+    {
+        "Name": "أ.فاطمه علي محمد جوخب",
+        "doctor_info": [
+            "محاضر",
+            "قسم علم النفس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "f.jokhab@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.jokhab"
+    },
+    {
+        "Name": "أ.سلمان فهد سعيد القحطاني",
+        "doctor_info": [
+            "محاضر",
+            "قسم علم النفس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "sf.alqahtani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/sf.alqahtani"
+    },
+    {
+        "Name": "د.فيصل عبدالرحمن سعد الشدي",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الدراسات الاسلامية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "f.alsheddi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.alsheddi"
+    },
+    {
+        "Name": "أ.د.عبدالوهاب علي عايض ابو درمان",
+        "doctor_info": [
+            "أستاذ",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "a.abuderman@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.abuderman"
+    },
+    {
+        "Name": "أ.د.محمد مصطفى . عبدالغفار",
+        "doctor_info": [
+            "أستاذ",
+            "قسم إصلاح الأسنان",
+            "كلية طب الأسنان بالخرج"
+        ],
+        "email": "ma.mustafa@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ma.mustafa"
+    },
+    {
+        "Name": "د.ذعار سعد علي القحطاني",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة المدنية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "t.alqahtani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/t.alqahtani"
+    },
+    {
+        "Name": "أ.د.محمد صالح يوسف علي",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الإدارة",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "my.ali@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/my.ali"
+    },
+    {
+        "Name": "د.يزيد عالي عالي الزهراني",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علوم الحاسب",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "y.alzahrani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/y.alzahrani"
+    },
+    {
+        "Name": "د.محمد عبدالعزيز محمد العيسى",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علوم المختبرات الطبية",
+            "كلية العلوم الطبية التطبيقية بالخرج"
+        ],
+        "email": "m.alissa@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alissa"
+    },
+    {
+        "Name": "أ.اميره محمد حسين الجيزاني",
+        "doctor_info": [
+            "محاضر",
+            "قسم علم النفس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "a.algizani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.algizani"
+    },
+    {
+        "Name": "د.ولاء عبدالعزيز مهنا المهنا",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "w.almuhanna@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/w.almuhanna"
+    },
+    {
+        "Name": "د.اسماء حزام غرم الله الزهراني",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علم النفس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "asm.alzahrani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/asm.alzahrani"
+    },
+    {
+        "Name": "أ.مها فهد محمد الطعيس",
+        "doctor_info": [
+            "محاضر",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "m.altoeis@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.altoeis"
+    },
+    {
+        "Name": "أ.لينا سالم عبدالله المزيد",
+        "doctor_info": [
+            "محاضر",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "ls.almazyad@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ls.almazyad"
+    },
+    {
+        "Name": "د.سحر عبده محمد السيد",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "s.elsayed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.elsayed"
+    },
+    {
+        "Name": "د.خلود جرمان خالد الدغيلبي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة العربية و آدابها",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "k.aldeghailbi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/k.aldeghailbi"
+    },
+    {
+        "Name": "د.وليد مثيب حمد الدوسري",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم هندسة الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "wm.aldosari@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/wm.aldosari"
+    },
+    {
+        "Name": "احمد جابر يحي مدبش",
+        "doctor_info": [
+            "أ/مساعد",
+            "قسم الدراسات الاسلامية",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "a.modbsh@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.modbsh"
+    },
+    {
+        "Name": "د.فهد عبدالله عبدالعزيز ال عثمان",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الدراسات الاسلامية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "fah.alothman@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/fah.alothman"
+    },
+    {
+        "Name": "د.مشاعل مثبت حسين البيضاني",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "m.albaidani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.albaidani"
+    },
+    {
+        "Name": "د.طلال فرحان احمد قحطان",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الفيزياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "t.qahtan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/t.qahtan"
+    },
+    {
+        "Name": "د.ابو بكر  طه بخيت طه",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة المدنية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "a.taha@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.taha"
+    },
+    {
+        "Name": "د.فاروق رزاز حمود قاسم",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الكهربائية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "f.kasim@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.kasim"
+    },
+    {
+        "Name": "د.شعبان رجب ابراهيم محمد سكر",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "s.sukkar@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.sukkar"
+    },
+    {
+        "Name": "د.محمد محمد زكي احمد",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الهندسة الميكانيكية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "moh.ahmed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/moh.ahmed"
+    },
+    {
+        "Name": "د.مصعب عبدالله علي الزبير",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الجراحة",
+            "كلية الطب بالخرج"
+        ],
+        "email": "m.alzubier@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alzubier"
+    },
+    {
+        "Name": "د.عبدالله سعيد . بن سلامه",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الكهربائية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "a.benselama@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.benselama"
+    },
+    {
+        "Name": "د.مد محمود . الزمان",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم جراحة الوجه والفكين وعلوم التشخيص",
+            "كلية طب الأسنان بالخرج"
+        ],
+        "email": "m.zaman@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.zaman"
+    },
+    {
+        "Name": "د.ابو بكر  طه بخيت طه",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة المدنية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "a.taha@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.taha"
+    },
+    {
+        "Name": "د.جلال عبدالقادر احمد الاشعري",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "g.alashaari@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/g.alashaari"
+    },
+    {
+        "Name": "د.عقيل احمد جميل احمد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الكيمياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "aj.ahmad@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/aj.ahmad"
+    },
+    {
+        "Name": "أ.د.شاهد محمود محمد اكرم",
+        "doctor_info": [
+            "أستاذ",
+            "قسم إصلاح الأسنان",
+            "كلية طب الأسنان بالخرج"
+        ],
+        "email": "s.akram@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.akram"
+    },
+    {
+        "Name": "د.محمد احمد محمد عكيله",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الأحياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "m.akela@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.akela"
+    },
+    {
+        "Name": "د.احمد مصطفى . بن عماره",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "am.amara@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/am.amara"
+    },
+    {
+        "Name": "د.عبدالله محمد علي نعمان",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الكهربائية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "a.noman@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.noman"
+    },
+    {
+        "Name": "د.وازع محمد احمد عبد القوي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الكهربائية",
+            "كلية الهندسة بوادي الدواسر"
+        ],
+        "email": "w.alkadri@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/w.alkadri"
+    },
+    {
+        "Name": "د.مختار فتحيو . حمزة",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الميكانيكية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "mh.hamza@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/mh.hamza"
+    },
+    {
+        "Name": "د.رغده محمد العكرمي حامدي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الكيمياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "rm.hamdi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/rm.hamdi"
+    },
+    {
+        "Name": "د.ماجد ناجي يحى شداد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الكيمياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "m.shaddad@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.shaddad"
+    },
+    {
+        "Name": "أ.د.كمال شلبي السيد شلبي",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الكيمياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "k.shalabi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/k.shalabi"
+    },
+    {
+        "Name": "أ.احمد محمود عبدالحميد رباح",
+        "doctor_info": [
+            "محاضر",
+            "قسم علوم الاستعاضة السنية",
+            "كلية طب الأسنان بالخرج"
+        ],
+        "email": "a.rabah@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.rabah"
+    },
+    {
+        "Name": "د.رمزي عبيد ظيف الله الثبيتي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علوم الاستعاضة السنية",
+            "كلية طب الأسنان بالخرج"
+        ],
+        "email": "r.althubaitiy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/r.althubaitiy"
+    },
+    {
+        "Name": "د.دعاء كمال عبدالمنعم الخربتاوي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "d.elkherbetawy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/d.elkherbetawy"
+    },
+    {
+        "Name": "د.احمد علي فضل بنيو",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "a.benyo@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.benyo"
+    },
+    {
+        "Name": "د.عمر محمد على مندر",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم امراض النساء والولادة",
+            "كلية الطب بالخرج"
+        ],
+        "email": "o.munder@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/o.munder"
+    },
+    {
+        "Name": "د.محمد طارق . امام",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الصيدلة الإكلينيكية",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "m.imam@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.imam"
+    },
+    {
+        "Name": "Dr.Mawal Ali Abdo Mohammed",
+        "doctor_info": [
+            "Assistant Professor",
+            "قسم هندسة البرمجيات",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "maw.mohammed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/maw.mohammed"
+    },
+    {
+        "Name": "د.وضاح جمال أحمد عثمان",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العقاقير",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "w.osman@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/w.osman"
+    },
+    {
+        "Name": "د.احمد عادل عاشور محمد",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم العقاقير",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "ahmed.mohamed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ahmed.mohamed"
+    },
+    {
+        "Name": "د.عافيه كنفل عويس اسلم رنا",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "a.rana@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.rana"
+    },
+    {
+        "Name": "د.محمد عبدالعظيم مصطفى منصور",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الهندسة المدنية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "ma.mansour@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ma.mansour"
+    },
+    {
+        "Name": "د.ايمان عبدالسلام . البراج",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم هندسة الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "i.barraj@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/i.barraj"
+    },
+    {
+        "Name": "أ.ماريه ابراهيم احمد القرعاوي",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة العربية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "m.alqarawi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alqarawi"
+    },
+    {
+        "Name": "د.بلال محمد احمد عنيزان",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الإدارة",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "b.eneizan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/b.eneizan"
+    },
+    {
+        "Name": "د.سماح محمد محمد الزنن",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علوم الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "s.alzanin@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.alzanin"
+    },
+    {
+        "Name": "د.فرحان احمد مان احمد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "f.ahmad@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.ahmad"
+    },
+    {
+        "Name": "د.عبدالمطلب عبدالله محمد علي الامين",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "aa.alameen@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/aa.alameen"
+    },
+    {
+        "Name": "د.ابتهال كمال علي عبيد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "e.kamal@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/e.kamal"
+    },
+    {
+        "Name": "د.عماد عبدالنبي محمد يونس",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الكهربائية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "e.younis@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/e.younis"
+    },
+    {
+        "Name": "د.ماجد عبدالله كرامه الذييبي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الكهربائية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "m.aldhaeebi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.aldhaeebi"
+    },
+    {
+        "Name": "د.ناديه محمد حسن صالح",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم التمريض",
+            "كلية العلوم الطبية التطبيقية بوادي الدواسر"
+        ],
+        "email": "n.saleh@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.saleh"
+    },
+    {
+        "Name": "د.مد توفيق . ناصيف",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "m.nasseef@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.nasseef"
+    },
+    {
+        "Name": "د.عبدالواحد متوكل الطيب اسماعيل",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم نظم المعلومات",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "am.ismaeil@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/am.ismaeil"
+    },
+    {
+        "Name": "د.حنان عبدالرازق عبدالعال محمد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم التمريض",
+            "كلية العلوم الطبية التطبيقية بوادي الدواسر"
+        ],
+        "email": "han.mohamed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/han.mohamed"
+    },
+    {
+        "Name": "د.حسن صلاح أنور غزى",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم المحاسبة",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "h.ghozi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.ghozi"
+    },
+    {
+        "Name": "د.صفاء الطيب محمد الطاهر",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم هندسة البرمجيات",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "s.eltaher@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.eltaher"
+    },
+    {
+        "Name": "د.ابتسام عبدالغني محمد البشبيشي",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الأشعة والتصوير الطبي",
+            "كلية العلوم الطبية التطبيقية بالخرج"
+        ],
+        "email": "e.elbeshbishy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/e.elbeshbishy"
+    },
+    {
+        "Name": "د.علي عبدالرحمن عبدالحكيم علي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الفيزياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "al.ali@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/al.ali"
+    },
+    {
+        "Name": "د.خالد محمود عبدالعزيز  برعي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة المدنية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "km.mahmoud@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/km.mahmoud"
+    },
+    {
+        "Name": "د.محمد أزهر . كمال",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الصيدلانيات",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "ma.kamal@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ma.kamal"
+    },
+    {
+        "Name": "د.ساميه امحمد . سويسي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم نظم المعلومات",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "s.souissi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.souissi"
+    },
+    {
+        "Name": "د.اويس خالد خالد محمود",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الفيزياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "ak.khalid@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ak.khalid"
+    },
+    {
+        "Name": "د.سماح النفطي . ناجي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم نظم المعلومات",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "s.neji@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.neji"
+    },
+    {
+        "Name": "د.هبه وجيه ابوزيد منصور",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علوم الاستعاضة السنية",
+            "كلية طب الأسنان بالخرج"
+        ],
+        "email": "h.mansour@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.mansour"
+    },
+    {
+        "Name": "أ.د.فاطمه رضا بن سالم",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الهندسة الكهربائية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "f.bensalem@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.bensalem"
+    },
+    {
+        "Name": "د.داليا عبدالعزيز عبدالفتاح الشربيني",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الكيمياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "d.elsherbiny@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/d.elsherbiny"
+    },
+    {
+        "Name": "د.دينا حسن ابراهيم الشيخ",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "d.elsheikh@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/d.elsheikh"
+    },
+    {
+        "Name": "أ.د.احمد محمد يوسف اشتيات",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الهندسة المدنية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "a.ashteyat@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.ashteyat"
+    },
+    {
+        "Name": "د.حكيم . . بن حسان",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الإدارة",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "h.binhacene@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.binhacene"
+    },
+    {
+        "Name": "د.مصطفى زكي حسين متولي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم البرامج العلمية والتقنيات الناشئة",
+            "كلية التطبيقية"
+        ],
+        "email": "m.metwalli@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.metwalli"
+    },
+    {
+        "Name": "د.نجلاء السيد ابراهيم سعيد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم هندسة الحاسب الآلي والشبكات",
+            "كلية الهندسة بوادي الدواسر"
+        ],
+        "email": "n.said@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.said"
+    },
+    {
+        "Name": "د.مصطفى السيد عبدالسلام ابوالنور",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم هندسة الحاسب الآلي والشبكات",
+            "كلية الهندسة بوادي الدواسر"
+        ],
+        "email": "m.aboelnour@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.aboelnour"
+    },
+    {
+        "Name": "د.باباتوندي اومنيي . ديديرو",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الصناعية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "b.odedairo@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/b.odedairo"
+    },
+    {
+        "Name": "د.عائشه بهاتي عمر دراز",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "a.bhatti@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.bhatti"
+    },
+    {
+        "Name": "د.هدى . . مجيد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "h.majeed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.majeed"
+    },
+    {
+        "Name": "د.عبداللطيف سعيد عبداللطيف اسماعيل",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "as.ismail@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/as.ismail"
+    },
+    {
+        "Name": "د.سماح ابوالعباس محمد شوشة",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الكيمياء الصيدلية",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "s.shosha@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.shosha"
+    },
+    {
+        "Name": "د.رضوان احمد ملك ملك",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الميكانيكية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "r.malik@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/r.malik"
+    },
+    {
+        "Name": "أ.د.البدري عبدالمجيد احمد سالم",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الدراسات الاسلامية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "e.salem@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/e.salem"
+    },
+    {
+        "Name": "أ.د.عبدالله علي عبدالله الشهري",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الدراسات الاسلامية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "a.shehri@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.shehri"
+    },
+    {
+        "Name": "أ.د.خالد هدوب فوزان المهيدب",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الدراسات الاسلامية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "k.almuhaidib@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/k.almuhaidib"
+    },
+    {
+        "Name": "أ.د.علاء محمد علي الدين الصياد",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الهندسة الكهربائية",
+            "كلية الهندسة بوادي الدواسر"
+        ],
+        "email": "a.elsayyad@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.elsayyad"
+    },
+    {
+        "Name": "أ.د.جمال عبدالحكيم محمد سليمان",
+        "doctor_info": [
+            "أستاذ",
+            "قسم علم الأدوية",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "g.soliman@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/g.soliman"
+    },
+    {
+        "Name": "أ.د.ماجد سعد عبدالقادر يوسف",
+        "doctor_info": [
+            "أستاذ",
+            "قسم العقاقير",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "m.youssef@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.youssef"
+    },
+    {
+        "Name": "أ.د.جورجس . . زاتشراكس",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الأمراض الباطنية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "g.zacharakis@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/g.zacharakis"
+    },
+    {
+        "Name": "أ.د.حسين محمد السيد قوره",
+        "doctor_info": [
+            "أستاذ",
+            "قسم أمراض الأطفال",
+            "كلية الطب بالخرج"
+        ],
+        "email": "h.koura@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.koura"
+    },
+    {
+        "Name": "أ.د.محمد اسلم شان صديقي",
+        "doctor_info": [
+            "أستاذ",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "m.siddiqui@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.siddiqui"
+    },
+    {
+        "Name": "أ.د.سناء محرم أحمد كمال",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الأمراض الباطنية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "s.kamal@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.kamal"
+    },
+    {
+        "Name": "أ.د.نيفين عبدالرؤوف محمد خليفه",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الأحياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "n.khaliefa@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.khaliefa"
+    },
+    {
+        "Name": "أ.د.ريني . . جورج",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "r.kunnelchacko@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/r.kunnelchacko"
+    },
+    {
+        "Name": "أ.د.حسام عبدالمقصود نبوى محمد",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "h.mohamed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.mohamed"
+    },
+    {
+        "Name": "أ.د.محمد مدثر محمد عبده",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "m.abdou@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.abdou"
+    },
+    {
+        "Name": "أ.د.سولفي اسماعيل محمد مناكاتيل",
+        "doctor_info": [
+            "أستاذ",
+            "قسم إدارة الموارد البشرية",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "s.manakkattil@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.manakkattil"
+    },
+    {
+        "Name": "أ.د.فرج عبدالله جبر العيسوي",
+        "doctor_info": [
+            "أستاذ",
+            "قسم عام",
+            "كلية السنة التحضيرية بالخرج"
+        ],
+        "email": "f.elessawy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.elessawy"
+    },
+    {
+        "Name": "أ.د.حمد عبدالله مطلق القميزي",
+        "doctor_info": [
+            "أستاذ",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "h.algomaizy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.algomaizy"
+    },
+    {
+        "Name": "أ.د.محمود محمد سليم صالح",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "m.selim@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.selim"
+    },
+    {
+        "Name": "أ.د.عبدالباسط عبدالحميد محمد محمد",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "a.mohamed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.mohamed"
+    },
+    {
+        "Name": "أ.د.خالد محمد الصادق بسيس",
+        "doctor_info": [
+            "أستاذ",
+            "قسم علوم الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "k.bsaies@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/k.bsaies"
+    },
+    {
+        "Name": "أ.د.نسار كوتاكاران سوبي سوبي",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "n.sooppy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.sooppy"
+    },
+    {
+        "Name": "أ.د.شمويل احمد محمد يوسف",
+        "doctor_info": [
+            "أستاذ",
+            "قسم علوم المختبرات الطبية",
+            "كلية العلوم الطبية التطبيقية بالخرج"
+        ],
+        "email": "dr.shamweel@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/dr.shamweel"
+    },
+    {
+        "Name": "أ.د.محمد الامجد بن يوسف . بوعزيزي",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الهندسة الميكانيكية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "my.bouazizi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/my.bouazizi"
+    },
+    {
+        "Name": "أ.د.جوهر بن محمد . المعين",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الهندسة الكهربائية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "j.mouine@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/j.mouine"
+    },
+    {
+        "Name": "أ.د.فايز فهيم محمد السوسي",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الهندسة الكهربائية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "f.elsousy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.elsousy"
+    },
+    {
+        "Name": "أ.د.خالد عبدالله محمد الغملاس",
+        "doctor_info": [
+            "أستاذ",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "alghimlas@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/alghimlas"
+    },
+    {
+        "Name": "أ.د.ريم عبدالعزيز محمد العلي",
+        "doctor_info": [
+            "أستاذ",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "r.alali@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/r.alali"
+    },
+    {
+        "Name": "د.محمد نشأت محمد احمد",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الدراسات الاسلامية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "moh.mohamed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/moh.mohamed"
+    },
+    {
+        "Name": "د.علي رمضان البيومي شداد",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم اللغة العربية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "a.shaddad@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.shaddad"
+    },
+    {
+        "Name": "أ.د.اسماء عبدالرحمن نامي الشيخ",
+        "doctor_info": [
+            "أستاذ",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "a.alshaikh@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alshaikh"
+    },
+    {
+        "Name": "د.عبدالله محمد بدن السبيعي",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "a.alsubai@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alsubai"
+    },
+    {
+        "Name": "أ.د.عبدالسلام عمر سعيد بن ناجي",
+        "doctor_info": [
+            "أستاذ",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "a.alnaji@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alnaji"
+    },
+    {
+        "Name": "د.البدري البلوله علي العاقب",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الإدارة",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "a.alaqib@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alaqib"
+    },
+    {
+        "Name": "د.احمد محمد جلال عبدالمنعم محمد",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الهندسة الميكانيكية",
+            "كلية الهندسة بوادي الدواسر"
+        ],
+        "email": "ahm.mohamed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ahm.mohamed"
+    },
+    {
+        "Name": "د.شريف عبدالنبي عبدالجواد ضيف الله",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الكيمياء الصيدلية",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "s.daif@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.daif"
+    },
+    {
+        "Name": "د.منشاوي عزمي منشاوي محمد",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الكيمياء الصيدلية",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "ma.mohamed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ma.mohamed"
+    },
+    {
+        "Name": "د.عبدالله عثمان حمد الثميرى",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الصيدلة الإكلينيكية",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "a.althemery@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.althemery"
+    },
+    {
+        "Name": "د.السيد عبده زكي خفاجي",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الصيدلانيات",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "e.khafagy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/e.khafagy"
+    },
+    {
+        "Name": "د.منال محمد زاهر عليوه",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم أمراض الأطفال",
+            "كلية الطب بالخرج"
+        ],
+        "email": "m.elewa@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.elewa"
+    },
+    {
+        "Name": "د.احمد البشير علي امحمدي",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الكيمياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "a.mhamedi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.mhamedi"
+    },
+    {
+        "Name": "د.عيد رجب عبدالفتاح ابوعز",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الفيزياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "e.aboezz@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/e.aboezz"
+    },
+    {
+        "Name": "د.السيد ابراهيم رضوان سليم",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الفيزياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "e.selim@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/e.selim"
+    },
+    {
+        "Name": "د.خضر حيات . خان",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "k.khan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/k.khan"
+    },
+    {
+        "Name": "د.شيفان طه . عبد ال",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "s.abdullateef@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.abdullateef"
+    },
+    {
+        "Name": "د.نبيل محمد لطف الحزمي",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم التسويق",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "n.alhazmi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.alhazmi"
+    },
+    {
+        "Name": "د.مراد مصطفى شحاده عرار",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "m.arar@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.arar"
+    },
+    {
+        "Name": "د.حسب الرسول يوسف التوم شهاب الدين",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم إدارة الأعمال",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "h.shihabeldeen@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.shihabeldeen"
+    },
+    {
+        "Name": "د.مصطفى احمد حمد منصور",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم إدارة الأعمال",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "m.mansour@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.mansour"
+    },
+    {
+        "Name": "د.مزمل موسى سعيد موسى",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم علوم الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "m.musa@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.musa"
+    },
+    {
+        "Name": "د.علي محمد عبدالرحمن ابوعجوب",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم هندسة الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "a.abuagoub@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.abuagoub"
+    },
+    {
+        "Name": "د.عادل عبدالفضيل عيد بيومي بليق",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الدراسات الإسلامية",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "a.bleek@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.bleek"
+    },
+    {
+        "Name": "د.ناصر راضي الزهراى ابراهيم",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم اللغة العربية و آدابها",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "n.ibrahim@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.ibrahim"
+    },
+    {
+        "Name": "د.صبحي ابراهيم عفيفي المليجي",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم اللغة العربية و آدابها",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "s.elmelegy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.elmelegy"
+    },
+    {
+        "Name": "د.خليل بخيت خليل اسماعيل",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "k.ismail@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/k.ismail"
+    },
+    {
+        "Name": "د.كاكل حسين . فيروز",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم الكيمياء",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "k.firoz@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/k.firoz"
+    },
+    {
+        "Name": "د.جافيد شيخ محمد",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم تقنية الأجهزة الطبية",
+            "كلية العلوم الطبية التطبيقية بالخرج"
+        ],
+        "email": "j.shaikhmohammed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/j.shaikhmohammed"
+    },
+    {
+        "Name": "د.عبدالملك عثمان اسماعيل غالب",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "a.ghaleb@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.ghaleb"
+    },
+    {
+        "Name": "د.اماني مصطفى عبدالرحمن ابوعوف",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "a.aboouf@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.aboouf"
+    },
+    {
+        "Name": "أ.د.فهمي خالد . النجار",
+        "doctor_info": [
+            "أستاذ",
+            "قسم الهندسة الميكانيكية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "f.najar@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.najar"
+    },
+    {
+        "Name": "د.ناصر محمد سعيد الدوسري",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الأمراض الباطنية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "na.aldossary@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/na.aldossary"
+    },
+    {
+        "Name": "د.منيرة محمد عبدالكريم الفاضل",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الصيدلانيات",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "m.alfadhel@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alfadhel"
+    },
+    {
+        "Name": "د.سلمان صاهود راقي العتيبي",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "ss.alotaibi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ss.alotaibi"
+    },
+    {
+        "Name": "د.اماني عبدالله سعد بن جوير",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "a.binjwair@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.binjwair"
+    },
+    {
+        "Name": "د.نوره صالح محمد المقبل",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "n.almoqpl@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.almoqpl"
+    },
+    {
+        "Name": "د.وفاء عايض سعد الحارثى",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "w.alharthi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/w.alharthi"
+    },
+    {
+        "Name": "د.نوره فراج محمد الدوسري",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "nf.aldossary@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/nf.aldossary"
+    },
+    {
+        "Name": "د.هدى سعد محمد الحربى",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "hs.alharbi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/hs.alharbi"
+    },
+    {
+        "Name": "د.علي محمد سليمان الربيعان",
+        "doctor_info": [
+            "أستاذ مشارك",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "a.alrubian@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alrubian"
+    },
+    {
+        "Name": "د.فاتح حمود أحمد بلواضح",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم المحاسبة",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "f.belouadah@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.belouadah"
+    },
+    {
+        "Name": "د.سمحي عبدالعاطي حامد ضيف الله",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم المحاسبة",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "s.difalla@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.difalla"
+    },
+    {
+        "Name": "د.عبدالرحمن صالح ناصر الدغيثر",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الإدارة",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "a.aldogiher@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.aldogiher"
+    },
+    {
+        "Name": "د.احمد سعيد رحمه عبدالله",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم المحاسبة",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "a.abdallah@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.abdallah"
+    },
+    {
+        "Name": "د.محمد عمر موسى محمد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم المحاسبة",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "moh.mohammed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/moh.mohammed"
+    },
+    {
+        "Name": "د.المنتصر المبروك بلقاسم زغدود",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم نظم المعلومات",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "zaghdoud@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/zaghdoud"
+    },
+    {
+        "Name": "د.رامي عبدالحميد حسنين الدلال",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الإدارة",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "r.eldallal@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/r.eldallal"
+    },
+    {
+        "Name": "د.علي احمد . خان",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم نظم المعلومات",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "a.gulam@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.gulam"
+    },
+    {
+        "Name": "د.ميسره محيي الدين قاسم محمد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الميكانيكية",
+            "كلية الهندسة بوادي الدواسر"
+        ],
+        "email": "mm.mohamed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/mm.mohamed"
+    },
+    {
+        "Name": "د.محمد مسعود بالعيد ال حيدر",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الكهربائية",
+            "كلية الهندسة بوادي الدواسر"
+        ],
+        "email": "m.alhaider@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alhaider"
+    },
+    {
+        "Name": "د.ابي يونس طه الامين",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الميكانيكية",
+            "كلية الهندسة بوادي الدواسر"
+        ],
+        "email": "o.elamin@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/o.elamin"
+    },
+    {
+        "Name": "د.مدينة محمد  احمد محمد الحسين",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الدراسات الاسلامية",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "m.alhossin@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alhossin"
+    },
+    {
+        "Name": "د.امال الامين خضر حاج الحسين",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الدراسات الاسلامية",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "a.hisseen@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.hisseen"
+    },
+    {
+        "Name": "د.ميرفت محمد لبيب محمد الكاشف",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم التمريض",
+            "كلية العلوم الطبية التطبيقية بوادي الدواسر"
+        ],
+        "email": "m.alkashif@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alkashif"
+    },
+    {
+        "Name": "د.فزيل ارشد . ناسيام",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم جراحة الوجه والفكين وعلوم التشخيص",
+            "كلية طب الأسنان بالخرج"
+        ],
+        "email": "f.nasyam@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.nasyam"
+    },
+    {
+        "Name": "د.عبدالله سلطان عبدالله بن نبهان",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم جراحة الوجه والفكين وعلوم التشخيص",
+            "كلية طب الأسنان بالخرج"
+        ],
+        "email": "a.binnabhan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.binnabhan"
+    },
+    {
+        "Name": "د.اسماء السيد محمد شريف",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العقاقير",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "ae.sherif@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ae.sherif"
+    },
+    {
+        "Name": "د.سمية راشد . عبدالراشد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علم الأدوية",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "s.abdulrashid@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.abdulrashid"
+    },
+    {
+        "Name": "د.عبيد . . افضل",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الكيمياء الصيدلية",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "o.akram@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/o.akram"
+    },
+    {
+        "Name": "د.محمد فياض . خان",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الصيدلة الإكلينيكية",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "moh.khan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/moh.khan"
+    },
+    {
+        "Name": "د.محمد ساروش . خان",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "mo.khan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/mo.khan"
+    },
+    {
+        "Name": "د.غلام مصطفى . حسن",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "g.hasan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/g.hasan"
+    },
+    {
+        "Name": "د.بير محيي الدين ابو بكر",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "p.mohideen@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/p.mohideen"
+    },
+    {
+        "Name": "د.عبدالعزيز ابراهيم عبدالله الجريوي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الأمراض الباطنية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "a.aljuraywi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.aljuraywi"
+    },
+    {
+        "Name": "د.احمد عبدالعظيم عبدالله عمر",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الجراحة",
+            "كلية الطب بالخرج"
+        ],
+        "email": "a.omer@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.omer"
+    },
+    {
+        "Name": "د.عبدالرحمن علي محمد خرمي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الأمراض الباطنية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "aa.khormi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/aa.khormi"
+    },
+    {
+        "Name": "د.ابوبكر عمر حسين محمد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الأمراض الباطنية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "ao.mohammed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ao.mohammed"
+    },
+    {
+        "Name": "د.عباس البكري عباس السيد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم أمراض الأطفال",
+            "كلية الطب بالخرج"
+        ],
+        "email": "ae.elsayed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ae.elsayed"
+    },
+    {
+        "Name": "د.عثمان صالح محمد ابا حسين",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الأمراض الباطنية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "o.abahussein@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/o.abahussein"
+    },
+    {
+        "Name": "د.اميره محمد السعيد فرغلي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "am.farghaly@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/am.farghaly"
+    },
+    {
+        "Name": "د.ضيف الله محمد مسفر المالكي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الأمراض الباطنية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "d.almalki@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/d.almalki"
+    },
+    {
+        "Name": "د.خالد بشير عبدالرحيم البشير",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم امراض النساء والولادة",
+            "كلية الطب بالخرج"
+        ],
+        "email": "k.albasheer@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/k.albasheer"
+    },
+    {
+        "Name": "د.منصور محمد منصور العجمي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم أمراض الأطفال",
+            "كلية الطب بالخرج"
+        ],
+        "email": "ma.alajmi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ma.alajmi"
+    },
+    {
+        "Name": "د.ايمن ابراهيم محمد جداوي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "a.gedawy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.gedawy"
+    },
+    {
+        "Name": "د.احمد محمد شحاته ابودنيا",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الجراحة",
+            "كلية الطب بالخرج"
+        ],
+        "email": "a.abodonya@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.abodonya"
+    },
+    {
+        "Name": "د.محي الدين فتحي نجيب محمد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الأمراض الباطنية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "m.mohamed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.mohamed"
+    },
+    {
+        "Name": "د.محمد ابراهيم حاج البشير السيد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم أمراض الأطفال",
+            "كلية الطب بالخرج"
+        ],
+        "email": "m.hajelbashir@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.hajelbashir"
+    },
+    {
+        "Name": "د.نصرالدين عثمان ابراهيم باحكيم",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "n.bahakim@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.bahakim"
+    },
+    {
+        "Name": "د.ايمن كمال محمد صالح",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الجراحة",
+            "كلية الطب بالخرج"
+        ],
+        "email": "a.saleh@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.saleh"
+    },
+    {
+        "Name": "د.سلمان عبدالله سليمان بن دايل",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الأمراض الباطنية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "s.bindayel@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.bindayel"
+    },
+    {
+        "Name": "د.محمد عبدالرازق سيد محمد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الجراحة",
+            "كلية الطب بالخرج"
+        ],
+        "email": "m.mohamad@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.mohamad"
+    },
+    {
+        "Name": "د.محمد شميم محمد نسيم",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الجراحة",
+            "كلية الطب بالخرج"
+        ],
+        "email": "m.nasim@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.nasim"
+    },
+    {
+        "Name": "د.حنان مانع حماد الجهني",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "h.aljohani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.aljohani"
+    },
+    {
+        "Name": "د.شيماء عبده عبدالعزيز داود",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "s.dawood@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.dawood"
+    },
+    {
+        "Name": "د.وفاء صلاح الدين محمد ابو اليزيد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الكيمياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "w.abouelyazied@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/w.abouelyazied"
+    },
+    {
+        "Name": "د.علا عبدالنبي عاشور عبدالنبي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "o.abdelnaby@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/o.abdelnaby"
+    },
+    {
+        "Name": "د.دينا احمد مندوه طولان",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الكيمياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "d.tolan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/d.tolan"
+    },
+    {
+        "Name": "د.اماني مصطفى احمد عثمان",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الكيمياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "am.osman@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/am.osman"
+    },
+    {
+        "Name": "د.شوكيت احمد . تلواني",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "s.tilwani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.tilwani"
+    },
+    {
+        "Name": "د.بسنت سيد محمد مصطفى",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "b.moustafa@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/b.moustafa"
+    },
+    {
+        "Name": "د.احسان احمد حسن بسيوني",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الأحياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "e.basiouny@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/e.basiouny"
+    },
+    {
+        "Name": "د.انصاف عامر . الفلالي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الكيمياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "i.filali@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/i.filali"
+    },
+    {
+        "Name": "د.اسامه مختار . ورغى",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الفيزياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "o.ouerghi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/o.ouerghi"
+    },
+    {
+        "Name": "د.عبدالكريم محمد عبدالله حمارشه",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "a.hamarsheh@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.hamarsheh"
+    },
+    {
+        "Name": "د.محمد محمد عوض عبدالجليل",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "m.abdelgalil@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.abdelgalil"
+    },
+    {
+        "Name": "د.سماح رمضان . سعيدي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الفيزياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "s.saidi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.saidi"
+    },
+    {
+        "Name": "د.شرين محمد فؤاد الخولي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الأحياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "s.elkholy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.elkholy"
+    },
+    {
+        "Name": "د.شريف محمد الحسيني اسماعيل",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الفيزياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "s.hussien@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.hussien"
+    },
+    {
+        "Name": "د.اسماء محمد البشير سعد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الفيزياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "a.saad@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.saad"
+    },
+    {
+        "Name": "د.فتحيه جمعه محمد جمعه",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الكيمياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "f.gomaa@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.gomaa"
+    },
+    {
+        "Name": "د.وفاء بكر عبدالسلام الشرقاوي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الفيزياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "w.elsharkawy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/w.elsharkawy"
+    },
+    {
+        "Name": "د.صفاء فارس نجيب كايد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الكيمياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "s.kayed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.kayed"
+    },
+    {
+        "Name": "د.جيهان عبدالرحمن حسن حموده",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الكيمياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "g.hammouda@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/g.hammouda"
+    },
+    {
+        "Name": "د.شاها فيصل محمد الياس",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم إدارة الموارد البشرية",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "s.shah@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.shah"
+    },
+    {
+        "Name": "د.انيس علي . حبيب",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الادارة",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "ah.ali@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ah.ali"
+    },
+    {
+        "Name": "د.السيد فتوح محمد هنداوي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم القانون",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "e.hendawy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/e.hendawy"
+    },
+    {
+        "Name": "د.نديم فاطيما شاكر علي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم المحاسبة",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "nf.ali@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/nf.ali"
+    },
+    {
+        "Name": "د.سيف النصر خوجلي عبدالله خوجلي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم القانون",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "s.khogai@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.khogai"
+    },
+    {
+        "Name": "د.محمد رمزي توصيف توصيف",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الادارة",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "m.tausif@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.tausif"
+    },
+    {
+        "Name": "د.شادي محمد عرفه حجازي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم القانون",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "s.hegazy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.hegazy"
+    },
+    {
+        "Name": "د.ايمن محجوب عبدالله محمد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الادارة",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "am.mohammed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/am.mohammed"
+    },
+    {
+        "Name": "د.عائشه محمد اسماعيل الامين",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم القانون",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "a.elamin@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.elamin"
+    },
+    {
+        "Name": "د.بشير الريح حمد محمد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم القانون",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "be.mohammed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/be.mohammed"
+    },
+    {
+        "Name": "د.عبدالجلال  شهر عبدالجليل بن محسن شمام",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الكهربائية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "a.chammam@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.chammam"
+    },
+    {
+        "Name": "د.بدر حمد عبدالكريم الحسون",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الكهربائية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "b.alhassoun@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/b.alhassoun"
+    },
+    {
+        "Name": "د.فاروق احمد قائد التميمي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة الإنجليزية",
+            "كلية السنة التحضيرية بالخرج"
+        ],
+        "email": "f.altameemy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.altameemy"
+    },
+    {
+        "Name": "د.الناصر بن الهادي . شيحاوي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم عام",
+            "كلية السنة التحضيرية بالخرج"
+        ],
+        "email": "n.chihaoui@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.chihaoui"
+    },
+    {
+        "Name": "د.سيف الدين ادم عبدالرحمن ادم",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة الإنجليزية",
+            "كلية السنة التحضيرية بالخرج"
+        ],
+        "email": "s.adam@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.adam"
+    },
+    {
+        "Name": "د.فدوى نصر . يحي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علوم الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "f.yahya@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.yahya"
+    },
+    {
+        "Name": "د.وليد علي . عايدي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علوم الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "w.aydi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/w.aydi"
+    },
+    {
+        "Name": "د.احمديه موسى محمد ابراهيم",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم إدارة الأعمال",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "am.ibrahim@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/am.ibrahim"
+    },
+    {
+        "Name": "د.عبدالله مسعود عوده الفزي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علوم الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "a.alfazi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alfazi"
+    },
+    {
+        "Name": "د.منصور فتحي ياسين علي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "mf.ali@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/mf.ali"
+    },
+    {
+        "Name": "د.احمد يوسف ادم اسماعيل",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم المحاسبة",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "a.ismael@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.ismael"
+    },
+    {
+        "Name": "د.حسن احمد يحيى المسعودي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الدراسات الاسلامية",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "h.almaswadi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.almaswadi"
+    },
+    {
+        "Name": "د.هجو البشير محمد علي البشر",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم إدارة الأعمال",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "h.elbasheer@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.elbasheer"
+    },
+    {
+        "Name": "د.بشرى محمد الامين النعيم",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علوم الحاسب",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "b.elamin@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/b.elamin"
+    },
+    {
+        "Name": "د.صفاء عبدالقادر عبدالقادر خضر",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة العربية و آدابها",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "s.khedr@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.khedr"
+    },
+    {
+        "Name": "د.ناهد محمد عثمان عطا المنان جيب الله",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الفيزياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "n.ata@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.ata"
+    },
+    {
+        "Name": "د.دار السلام سعد الدين محمود احمد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الدراسات الاسلامية",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "d.mahamed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/d.mahamed"
+    },
+    {
+        "Name": "د.ريا حسن محمد عجيمي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "r.egami@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/r.egami"
+    },
+    {
+        "Name": "د.وجدي الحبيب . الحمزي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم هندسة الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "w.elhamzi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/w.elhamzi"
+    },
+    {
+        "Name": "د.حسن خميس . المستيري",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم هندسة الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "h.mestiri@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.mestiri"
+    },
+    {
+        "Name": "د.فاطمه عبدالسلام . المصمودي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم نظم المعلومات",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "f.masmoudi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.masmoudi"
+    },
+    {
+        "Name": "د.مهدي عبد المجيد خماخم",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علوم الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "m.khemakhem@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.khemakhem"
+    },
+    {
+        "Name": "د.الصادق احمد محمد بابكر",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علوم الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "e.babiker@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/e.babiker"
+    },
+    {
+        "Name": "د.احمد علي حسن غنيمات",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علوم الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "a.ghneimat@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.ghneimat"
+    },
+    {
+        "Name": "د.منير سعيد احمد نصير",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم نظم المعلومات",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "m.nusir@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.nusir"
+    },
+    {
+        "Name": "د.فاطمه ريان العوض حاج علي احمد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علوم الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "fe.ahmed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/fe.ahmed"
+    },
+    {
+        "Name": "د.ابو بكر الصديق محمد يحيى الجيلي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم نظم المعلومات",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "ae.mohammed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ae.mohammed"
+    },
+    {
+        "Name": "د.فيحان فراج عبدالله هقشه",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الدراسات الإسلامية",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "f.hagshah@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.hagshah"
+    },
+    {
+        "Name": "د.احمد مرسي عبدالله مرسي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الرياضيات",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "a.morsy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.morsy"
+    },
+    {
+        "Name": "د.ابو سفيان عبدالله عثمان حسن",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الرياضيات",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "a.osman@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.osman"
+    },
+    {
+        "Name": "د.محمد عطا الله العزب اسماعيل",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الدراسات الإسلامية",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "m.ismail@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.ismail"
+    },
+    {
+        "Name": "د.محمد بهاء النور عبدالرحيم عثمان",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الدراسات الإسلامية",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "mb.osman@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/mb.osman"
+    },
+    {
+        "Name": "د.حسن دسوقي حامد حمد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الرياضيات",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "hd.mohammed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/hd.mohammed"
+    },
+    {
+        "Name": "د.عبير علي الشربيني عطيه",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علوم المختبرات الطبية",
+            "كلية العلوم الطبية التطبيقية بالخرج"
+        ],
+        "email": "a.ateya@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.ateya"
+    },
+    {
+        "Name": "د.داليا جلال الدين حسن حمودة",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علوم المختبرات الطبية",
+            "كلية العلوم الطبية التطبيقية بالخرج"
+        ],
+        "email": "d.hamouda@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/d.hamouda"
+    },
+    {
+        "Name": "د.ليندا بشير الطيب بشير",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم علوم المختبرات الطبية",
+            "كلية العلوم الطبية التطبيقية بالخرج"
+        ],
+        "email": "l.eltayeb@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/l.eltayeb"
+    },
+    {
+        "Name": "د.مروه محمد ابراهيم حافظ",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلاج الطبيعي والتأهيل الصحي",
+            "كلية العلوم الطبية التطبيقية بالخرج"
+        ],
+        "email": "m.hafez@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.hafez"
+    },
+    {
+        "Name": "د.احمد محمد محمد يوسف",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الأشعة والتصوير الطبي",
+            "كلية العلوم الطبية التطبيقية بالخرج"
+        ],
+        "email": "a.yousif@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.yousif"
+    },
+    {
+        "Name": "د.ابو سفيان محمد ابو القاسم ويس",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الميكانيكية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "a.ouis@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.ouis"
+    },
+    {
+        "Name": "د.محمد رجب صالح البحار",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة المدنية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "m.elbahar@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.elbahar"
+    },
+    {
+        "Name": "د.ابتسام عمار . نفخه",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم نظم المعلومات",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "i.nafkha@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/i.nafkha"
+    },
+    {
+        "Name": "د.دانة موفي ناصر الدوسري",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الدراسات الإسلامية",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "dan.aldosari@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/dan.aldosari"
+    },
+    {
+        "Name": "د.عواطف محمد علي الصديق",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "a.elsiddieg@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.elsiddieg"
+    },
+    {
+        "Name": "د.تربوان . . كومار",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "t.kumar@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/t.kumar"
+    },
+    {
+        "Name": "د.قمر محمد زياد هاشم",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم إصلاح الأسنان",
+            "كلية طب الأسنان بالخرج"
+        ],
+        "email": "q.hashem@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/q.hashem"
+    },
+    {
+        "Name": "د.هبه فتحي ابراهيم ابوكاتو",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "h.aboukato@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.aboukato"
+    },
+    {
+        "Name": "د.سماح عمر مهاجر حمدين",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "s.hamadain@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.hamadain"
+    },
+    {
+        "Name": "د.مهاد الفاتح البشير محمد احمد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "ma.ahmed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ma.ahmed"
+    },
+    {
+        "Name": "د.نسرين ابراهيم السنوسي محمد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "n.mohammef@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.mohammef"
+    },
+    {
+        "Name": "د.هبه عبدالناصر ابوالسعود ضبش",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "h.dabash@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.dabash"
+    },
+    {
+        "Name": "د.تهاني بشير محمددين احمد",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "tb.ahmed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/tb.ahmed"
+    },
+    {
+        "Name": "د.هنادي غرم الله عتيق الزهراني",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم وقاية الأسنان",
+            "كلية طب الأسنان بالخرج"
+        ],
+        "email": "hg.alzahrani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/hg.alzahrani"
+    },
+    {
+        "Name": "د.طارق محمد احمد سليم",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم التمريض",
+            "كلية العلوم الطبية التطبيقية بوادي الدواسر"
+        ],
+        "email": "t.selim@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/t.selim"
+    },
+    {
+        "Name": "د.مصطفى محمد زناتي عبدالله",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم التمريض",
+            "كلية العلوم الطبية التطبيقية بوادي الدواسر"
+        ],
+        "email": "m.abdallah@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.abdallah"
+    },
+    {
+        "Name": "د.غشمي هاشم جعفر بن طالب",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم هندسة الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "g.bintalib@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/g.bintalib"
+    },
+    {
+        "Name": "د.توفيق علي . مولاهي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "t.moulahi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/t.moulahi"
+    },
+    {
+        "Name": "د.نسيبه محمد مضوي ادريس",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الكيمياء",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "n.alshikidris@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.alshikidris"
+    },
+    {
+        "Name": "د.علي مصطفى عبدالعاطي حسب النبي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الميكانيكية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "a.hassibelnaby@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.hassibelnaby"
+    },
+    {
+        "Name": "د.سعديه علي محمد علي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "sad.ali@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/sad.ali"
+    },
+    {
+        "Name": "د.عبدالله عبدالعزيز عبدالله العلوان",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الصيدلة الإكلينيكية",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "a.alalwan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alalwan"
+    },
+    {
+        "Name": "د.عبدالرحمن عبدالله إبراهيم الحسون",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم المحاسبة",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "a.alhassun@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alhassun"
+    },
+    {
+        "Name": "د.وائل مطر حسن الحربي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة العربية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "wae.alharbi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/wae.alharbi"
+    },
+    {
+        "Name": "د.يوسف الطيب ابراهيم الزين",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم اللغة العربية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "y.alzain@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/y.alzain"
+    },
+    {
+        "Name": "د.علاء فؤاد محمد مؤمنه",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الهندسة الصناعية",
+            "كلية الهندسة بالخرج"
+        ],
+        "email": "a.momena@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.momena"
+    },
+    {
+        "Name": "د.سباء امين عبدالرحيم الاديمي",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الكيمياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "s.aladeemy@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.aladeemy"
+    },
+    {
+        "Name": "أ.ندى محمد عبدالعزيز الجاسر",
+        "doctor_info": [
+            "محاضر",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "n.aljasser@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.aljasser"
+    },
+    {
+        "Name": "أ.قطب الدين محمد محمد محمد",
+        "doctor_info": [
+            "محاضر",
+            "قسم الهندسة الكهربائية",
+            "كلية الهندسة بوادي الدواسر"
+        ],
+        "email": "q.mohammed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/q.mohammed"
+    },
+    {
+        "Name": "أ.محمد نور محمود عارف الجراح",
+        "doctor_info": [
+            "محاضر",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "mm.aljarrah@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/mm.aljarrah"
+    },
+    {
+        "Name": "أ.اندرجت مورجيندرابا . جودار",
+        "doctor_info": [
+            "محاضر",
+            "قسم وقاية الأسنان",
+            "كلية طب الأسنان بالخرج"
+        ],
+        "email": "i.gowdar@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/i.gowdar"
+    },
+    {
+        "Name": "أ.محمد ايمن عبدالاله السلقيني",
+        "doctor_info": [
+            "محاضر",
+            "قسم العقاقير",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "m.salkini@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.salkini"
+    },
+    {
+        "Name": "أ.افتاب . . عالم",
+        "doctor_info": [
+            "محاضر",
+            "قسم العقاقير",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "a.alam@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alam"
+    },
+    {
+        "Name": "أ.شروق حسين عبدالله علي سويلم",
+        "doctor_info": [
+            "محاضر",
+            "قسم العقاقير",
+            "كلية الصيدلة بالخرج"
+        ],
+        "email": "s.sweilam@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.sweilam"
+    },
+    {
+        "Name": "أ.محمد مصطفى احمد بويل",
+        "doctor_info": [
+            "محاضر",
+            "قسم العلوم الطبية الأساسية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "m.poyil@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.poyil"
+    },
+    {
+        "Name": "أ.رمضان سيد حسين محمد",
+        "doctor_info": [
+            "محاضر",
+            "قسم الأمراض الباطنية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "rs.mohamed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/rs.mohamed"
+    },
+    {
+        "Name": "أ.ريتشارد دسوزا ايدوارد دسوزا",
+        "doctor_info": [
+            "محاضر",
+            "قسم الفيزياء",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "r.dsouza@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/r.dsouza"
+    },
+    {
+        "Name": "أ.فراس عبدالله اسماعيل الواوي",
+        "doctor_info": [
+            "محاضر",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "f.alwawi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.alwawi"
+    },
+    {
+        "Name": "أ.مناسك محجوب مصطفى محمد نور",
+        "doctor_info": [
+            "محاضر",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "m.mohamednour@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.mohamednour"
+    },
+    {
+        "Name": "أ.وهج انيسه . ورده",
+        "doctor_info": [
+            "محاضر",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "w.saber@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/w.saber"
+    },
+    {
+        "Name": "أ.محمود عقله سلامه النواصره",
+        "doctor_info": [
+            "محاضر",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "m.nawasreh@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.nawasreh"
+    },
+    {
+        "Name": "أ.موسى احمد موسى الحسن",
+        "doctor_info": [
+            "محاضر",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "m.alhassan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alhassan"
+    },
+    {
+        "Name": "أ.محمد السيد الداودي الملهاط",
+        "doctor_info": [
+            "محاضر",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "m.eldawoody@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.eldawoody"
+    },
+    {
+        "Name": "أ.سامينا بانو . ابدول",
+        "doctor_info": [
+            "محاضر",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "s.banu@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.banu"
+    },
+    {
+        "Name": "أ.انور مصطفى محمد صالح هلال",
+        "doctor_info": [
+            "محاضر",
+            "قسم عام",
+            "كلية السنة التحضيرية بالخرج"
+        ],
+        "email": "a.hilal@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.hilal"
+    },
+    {
+        "Name": "أ.قوس باشا . محمد",
+        "doctor_info": [
+            "محاضر",
+            "قسم عام",
+            "كلية السنة التحضيرية بالخرج"
+        ],
+        "email": "g.mohammed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/g.mohammed"
+    },
+    {
+        "Name": "أ.ٍSasidhar . . Bandu",
+        "doctor_info": [
+            "محاضر",
+            "قسم اللغة الإنجليزية",
+            "كلية السنة التحضيرية بالخرج"
+        ],
+        "email": "s.bandu@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.bandu"
+    },
+    {
+        "Name": "أ.احمد صبحي سالم مفلح",
+        "doctor_info": [
+            "محاضر",
+            "قسم عام",
+            "كلية السنة التحضيرية بالخرج"
+        ],
+        "email": "a.mufleh@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.mufleh"
+    },
+    {
+        "Name": "أ.شادي ماجد ضيف الله الشرعه",
+        "doctor_info": [
+            "محاضر",
+            "قسم اللغة الإنجليزية",
+            "كلية السنة التحضيرية بالخرج"
+        ],
+        "email": "s.alshraah@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.alshraah"
+    },
+    {
+        "Name": "أ.محمد عبدالفتاح عبدالحميد عبدالرؤف",
+        "doctor_info": [
+            "محاضر",
+            "قسم اللغة الإنجليزية",
+            "كلية السنة التحضيرية بالخرج"
+        ],
+        "email": "m.abdelraouf@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.abdelraouf"
+    },
+    {
+        "Name": "أ.اشرف عبدالله محمود النعسان",
+        "doctor_info": [
+            "محاضر",
+            "قسم عام",
+            "كلية السنة التحضيرية بالخرج"
+        ],
+        "email": "a.alnassan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alnassan"
+    },
+    {
+        "Name": "أ.علي سليم خلف لبابنه",
+        "doctor_info": [
+            "محاضر",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "a.lababneh@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.lababneh"
+    },
+    {
+        "Name": "أ.هبة الله محمد عبدالله عيساوي",
+        "doctor_info": [
+            "محاضر",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "h.esawi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.esawi"
+    },
+    {
+        "Name": "أ.منى محمود البهي سعده",
+        "doctor_info": [
+            "محاضر",
+            "قسم الفيزياء",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "m.seada@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.seada"
+    },
+    {
+        "Name": "أ.الصديق عوض الكريم الهادي حامد",
+        "doctor_info": [
+            "محاضر",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "e.hamid@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/e.hamid"
+    },
+    {
+        "Name": "أ.جيتا ديفان بالاك ريشنا",
+        "doctor_info": [
+            "محاضر",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "g.dhivan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/g.dhivan"
+    },
+    {
+        "Name": "أ.محمد كامل محمد الهقيان",
+        "doctor_info": [
+            "محاضر",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "m.alhagyan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alhagyan"
+    },
+    {
+        "Name": "أ.معاطف محمد مسلم الضي",
+        "doctor_info": [
+            "محاضر",
+            "قسم المحاسبة",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "m.mussalam@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.mussalam"
+    },
+    {
+        "Name": "أ.سعدية حسن عبدالله حمزة",
+        "doctor_info": [
+            "محاضر",
+            "قسم علوم الحاسب",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "s.hamza@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.hamza"
+    },
+    {
+        "Name": "أ.عبدالرؤوف مقبل عبدالهادي الحراحشة",
+        "doctor_info": [
+            "محاضر",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "am.harahsheh@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/am.harahsheh"
+    },
+    {
+        "Name": "أ.انصاف بشير الصديق محمد",
+        "doctor_info": [
+            "محاضر",
+            "قسم علوم الحاسب",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "e.mohammed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/e.mohammed"
+    },
+    {
+        "Name": "أ.بتول هشام امين المصري",
+        "doctor_info": [
+            "محاضر",
+            "قسم علوم الحاسب",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "b.almasri@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/b.almasri"
+    },
+    {
+        "Name": "أ.عبدالله السر حموده محمد",
+        "doctor_info": [
+            "محاضر",
+            "قسم هندسة الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "a.mhamed@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.mhamed"
+    },
+    {
+        "Name": "أ.شابانا زياد بوتو فيدو",
+        "doctor_info": [
+            "محاضر",
+            "قسم علوم الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "s.ziyad@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.ziyad"
+    },
+    {
+        "Name": "أ.سلطان احمد علي شير",
+        "doctor_info": [
+            "محاضر",
+            "قسم علوم الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "s.alisher@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.alisher"
+    },
+    {
+        "Name": "أ.جابين نزير . حسين",
+        "doctor_info": [
+            "محاضر",
+            "قسم علوم الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "j.hussain@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/j.hussain"
+    },
+    {
+        "Name": "أ.تهمينا فاطيمه شيخ عبدالكريم",
+        "doctor_info": [
+            "محاضر",
+            "قسم علوم الحاسب",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "f.tahmeena@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.tahmeena"
+    },
+    {
+        "Name": "أ.امتل وحيد محمد عبدول",
+        "doctor_info": [
+            "محاضر",
+            "قسم علوم الحاسب",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "w.amtul@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/w.amtul"
+    },
+    {
+        "Name": "أ.سميه صنوبر محمد محمد",
+        "doctor_info": [
+            "محاضر",
+            "قسم علوم الحاسب",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "s.sanober@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.sanober"
+    },
+    {
+        "Name": "أ.اسماعيل حسن . حسانكوتي",
+        "doctor_info": [
+            "محاضر",
+            "قسم الكيمياء",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "i.hassankutty@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/i.hassankutty"
+    },
+    {
+        "Name": "أ.جانا شافي محمد شافيدين",
+        "doctor_info": [
+            "محاضر",
+            "قسم علوم الحاسب",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "j.jana@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/j.jana"
+    },
+    {
+        "Name": "أ.فايزة رضوان رضوان هاكي",
+        "doctor_info": [
+            "محاضر",
+            "قسم علوم الحاسب",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "r.faiza@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/r.faiza"
+    },
+    {
+        "Name": "أ.مرام عبدالعظيم عبدالله فقيري",
+        "doctor_info": [
+            "محاضر",
+            "قسم الأشعة والتصوير الطبي",
+            "كلية العلوم الطبية التطبيقية بالخرج"
+        ],
+        "email": "m.fagiry@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.fagiry"
+    },
+    {
+        "Name": "أ.الاء الطيب عمر علي",
+        "doctor_info": [
+            "محاضر",
+            "قسم علوم المختبرات الطبية",
+            "كلية العلوم الطبية التطبيقية بالخرج"
+        ],
+        "email": "ae.ali@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ae.ali"
+    },
+    {
+        "Name": "أ.الجوهرة عبدالعزيز عبدالله الفيصل",
+        "doctor_info": [
+            "محاضر",
+            "قسم الدراسات الإسلامية",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "aa.alfaisal@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/aa.alfaisal"
+    },
+    {
+        "Name": "أ.حصه محمد عبدالله العيدي",
+        "doctor_info": [
+            "محاضر",
+            "قسم اللغة العربية و آدابها",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "h.alaidi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.alaidi"
+    },
+    {
+        "Name": "أ.عبدالعزيز بشير سنوسي عمر",
+        "doctor_info": [
+            "محاضر",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "a.assanosi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.assanosi"
+    },
+    {
+        "Name": "أ.وفاء حمزه فضل مضوي",
+        "doctor_info": [
+            "محاضر",
+            "قسم نظم المعلومات",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "w.fadwel@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/w.fadwel"
+    },
+    {
+        "Name": "أ.اروى عبدالله احمد الافندي",
+        "doctor_info": [
+            "محاضر",
+            "قسم نظم المعلومات",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "a.alafandi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alafandi"
+    },
+    {
+        "Name": "أ.علي محمد علي الاسمر",
+        "doctor_info": [
+            "محاضر",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "a.asmar@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.asmar"
+    },
+    {
+        "Name": "أ.ساره محمد صالح محمد نور",
+        "doctor_info": [
+            "محاضر",
+            "قسم نظم المعلومات",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "s.mohamednour@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.mohamednour"
+    },
+    {
+        "Name": "أ.نازرين الطف حسين نذير الدين",
+        "doctor_info": [
+            "محاضر",
+            "قسم نظم المعلومات",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "n.nazirudeen@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.nazirudeen"
+    },
+    {
+        "Name": "أ.محمد شفيع الله . خان",
+        "doctor_info": [
+            "محاضر",
+            "قسم الفيزياء",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "sm.khan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/sm.khan"
+    },
+    {
+        "Name": "د.عبير عادل خليل النعناع",
+        "doctor_info": [
+            "أستاذ مساعد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "a.alnana@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alnana"
+    },
+    {
+        "Name": "أ.ليلى الهادي بن نجيمه",
+        "doctor_info": [
+            "محاضر",
+            "قسم علوم الحاسب",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "l.bennjima@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/l.bennjima"
+    },
+    {
+        "Name": "أ.ساره ناصر عبدالرحمن القرين",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة العربية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "s.algrin@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.algrin"
+    },
+    {
+        "Name": "أ.فاطمه عبدالرحمن محمد الخنفور",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة العربية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "f.alkhanfoor@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.alkhanfoor"
+    },
+    {
+        "Name": "أ.ساره عبدالله ناصر الجديعي",
+        "doctor_info": [
+            "معيد",
+            "قسم رياض أطفال",
+            "كلية التربية بالخرج"
+        ],
+        "email": "s.aljedie@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.aljedie"
+    },
+    {
+        "Name": "أ.شذى عبدالله سليمان الجميعة",
+        "doctor_info": [
+            "محاضر",
+            "قسم مناهج وطرق التدريس",
+            "كلية التربية بالخرج"
+        ],
+        "email": "s.aljomiah@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.aljomiah"
+    },
+    {
+        "Name": "أ.اسماء عبدالله ماجد الحربي",
+        "doctor_info": [
+            "معيد",
+            "قسم الدراسات الاسلامية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "as.alharbi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/as.alharbi"
+    },
+    {
+        "Name": "أ.مطلق حميد مطلق الشمري",
+        "doctor_info": [
+            "معيد",
+            "قسم نظم المعلومات",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "mh.alshammari@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/mh.alshammari"
+    },
+    {
+        "Name": "أ.عبدالعزيز عبدالله علي القرني",
+        "doctor_info": [
+            "معيد",
+            "قسم نظم المعلومات",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "ab.alqarni@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ab.alqarni"
+    },
+    {
+        "Name": "أ.محمد علي محمد الغامدي",
+        "doctor_info": [
+            "معيد",
+            "قسم المحاسبة",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "m.alghamadi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alghamadi"
+    },
+    {
+        "Name": "أ.عبدالعزيز سعيد عبدالله الكثيري",
+        "doctor_info": [
+            "محاضر",
+            "قسم نظم المعلومات",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "a.alkathiri@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alkathiri"
+    },
+    {
+        "Name": "أ.عيد ابراهيم سعد التميمي",
+        "doctor_info": [
+            "معيد",
+            "قسم المحاسبة",
+            "كلية إدارة الأعمال بحوطة بني تميم"
+        ],
+        "email": "e.altamimi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/e.altamimi"
+    },
+    {
+        "Name": "أ.عبدالله عبدالرحمن محمد النيباري",
+        "doctor_info": [
+            "معيد",
+            "قسم هندسة الحاسب الآلي والشبكات",
+            "كلية الهندسة بوادي الدواسر"
+        ],
+        "email": "a.alnaibari@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alnaibari"
+    },
+    {
+        "Name": "أ.مها فهاد ماجد الدوسري",
+        "doctor_info": [
+            "معيد",
+            "قسم الاقتصاد المنزلي",
+            "كلية التربية بوادي الدواسر"
+        ],
+        "email": "mf.alsagr@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/mf.alsagr"
+    },
+    {
+        "Name": "أ.سويد يحيى سويد الزهراني",
+        "doctor_info": [
+            "معيد",
+            "قسم التربية الخاصة",
+            "كلية التربية بوادي الدواسر"
+        ],
+        "email": "sy.alzahrani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/sy.alzahrani"
+    },
+    {
+        "Name": "أ.منيره فايز محمد المدرع",
+        "doctor_info": [
+            "معيد",
+            "قسم الاقتصاد المنزلي",
+            "كلية التربية بوادي الدواسر"
+        ],
+        "email": "m.almudarra@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.almudarra"
+    },
+    {
+        "Name": "أ.امنه فهد عبدالله الدوسري",
+        "doctor_info": [
+            "معيد",
+            "قسم التمريض",
+            "كلية العلوم الطبية التطبيقية بوادي الدواسر"
+        ],
+        "email": "amn.aldawsari@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/amn.aldawsari"
+    },
+    {
+        "Name": "أ.احمد محمد ابراهيم الجوهر",
+        "doctor_info": [
+            "معيد",
+            "قسم علوم الاستعاضة السنية",
+            "كلية طب الأسنان بالخرج"
+        ],
+        "email": "a.algohar@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.algohar"
+    },
+    {
+        "Name": "أ.محمد نبيل محمد زاهد",
+        "doctor_info": [
+            "معيد",
+            "قسم وقاية الأسنان",
+            "كلية طب الأسنان بالخرج"
+        ],
+        "email": "m.zahid@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.zahid"
+    },
+    {
+        "Name": "أ.رفال سعد عبدالله البعيجان",
+        "doctor_info": [
+            "معيد",
+            "قسم علوم الاستعاضة السنية",
+            "كلية طب الأسنان بالخرج"
+        ],
+        "email": "r.albaijan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/r.albaijan"
+    },
+    {
+        "Name": "أ.عبدالرحمن عتيق علي المالكي",
+        "doctor_info": [
+            "معيد",
+            "قسم علوم الاستعاضة السنية",
+            "كلية طب الأسنان بالخرج"
+        ],
+        "email": "aa.almalki@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/aa.almalki"
+    },
+    {
+        "Name": "أ.علي سليمان ابراهيم الغنيم",
+        "doctor_info": [
+            "معيد",
+            "قسم الجراحة",
+            "كلية الطب بالخرج"
+        ],
+        "email": "a.algonaim@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.algonaim"
+    },
+    {
+        "Name": "أ.محمد ابراهيم محمد الفواز",
+        "doctor_info": [
+            "معيد",
+            "قسم الأمراض الباطنية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "m.alfawaz@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alfawaz"
+    },
+    {
+        "Name": "أ.سعد راشد ابراهيم القاسم",
+        "doctor_info": [
+            "معيد",
+            "قسم الجراحة",
+            "كلية الطب بالخرج"
+        ],
+        "email": "s.alqasem@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.alqasem"
+    },
+    {
+        "Name": "أ.خالد صالح ضحوي العنزي",
+        "doctor_info": [
+            "معيد",
+            "قسم الأمراض الباطنية",
+            "كلية الطب بالخرج"
+        ],
+        "email": "k.elenizi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/k.elenizi"
+    },
+    {
+        "Name": "أ.لطيفه عبداللطيف صالح الملحم",
+        "doctor_info": [
+            "معيد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "l.almulhim@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/l.almulhim"
+    },
+    {
+        "Name": "أ.سطام سليم ساير الحربي",
+        "doctor_info": [
+            "معيد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "sat.alharbi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/sat.alharbi"
+    },
+    {
+        "Name": "أ.عبدالرحمن فهد عبدالرحمن السرحان",
+        "doctor_info": [
+            "معيد",
+            "قسم الفيزياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "a.alsarhan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alsarhan"
+    },
+    {
+        "Name": "أ.امل محمد جارالله البهلال",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "a.albahlal@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.albahlal"
+    },
+    {
+        "Name": "أ.اسيه مفلح سعيد الشهراني",
+        "doctor_info": [
+            "معيد",
+            "قسم الفيزياء",
+            "كلية العلوم والدراسات الانسانية بالخرج"
+        ],
+        "email": "as.alshahrani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/as.alshahrani"
+    },
+    {
+        "Name": "أ.سليمان ابراهيم عبدالله العمار",
+        "doctor_info": [
+            "معيد",
+            "قسم الادارة",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "s.alammar@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.alammar"
+    },
+    {
+        "Name": "أ.محمد علي محمد الاسمري",
+        "doctor_info": [
+            "معيد",
+            "قسم إدارة الموارد البشرية",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "mo.alasmari@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/mo.alasmari"
+    },
+    {
+        "Name": "أ.مصباح ياسر عوض العطاوي",
+        "doctor_info": [
+            "معيد",
+            "قسم المحاسبة",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "my.alatawi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/my.alatawi"
+    },
+    {
+        "Name": "أ.رغد سلمان عبدالله العثمان",
+        "doctor_info": [
+            "معيد",
+            "قسم إدارة الموارد البشرية",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "rs.alothman@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/rs.alothman"
+    },
+    {
+        "Name": "أ.عبدالله سعود مبروك الاحمدي",
+        "doctor_info": [
+            "معيد",
+            "قسم الادارة",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "a.alahmadi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alahmadi"
+    },
+    {
+        "Name": "أ.هياء شبنان راشد المصارير",
+        "doctor_info": [
+            "معيد",
+            "قسم القانون",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "h.almsarir@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.almsarir"
+    },
+    {
+        "Name": "أ.فيصل حسن محمد القحطاني",
+        "doctor_info": [
+            "معيد",
+            "قسم المالية",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "fh.alqahtani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/fh.alqahtani"
+    },
+    {
+        "Name": "أ.شيخه محمد ظافر العتيبي",
+        "doctor_info": [
+            "معيد",
+            "قسم إدارة الموارد البشرية",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "she.alotaibi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/she.alotaibi"
+    },
+    {
+        "Name": "أ.رنا عبدالوهاب عايض ال بودرمان",
+        "doctor_info": [
+            "معيد",
+            "قسم نظم المعلومات الإدارية",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "r.albuoderman@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/r.albuoderman"
+    },
+    {
+        "Name": "أ.صالح علي صالح الخضير",
+        "doctor_info": [
+            "معيد",
+            "قسم نظم المعلومات الإدارية",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "s.alkadayar@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.alkadayar"
+    },
+    {
+        "Name": "أ.العنود عبدالرحمن عبدالعزيز الحقباني",
+        "doctor_info": [
+            "معيد",
+            "قسم الادارة",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "al.alhaqbani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/al.alhaqbani"
+    },
+    {
+        "Name": "أ.عبدالعزيز عبدالله سليمان ال عثمان",
+        "doctor_info": [
+            "معيد",
+            "قسم المحاسبة",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "abdullah.alothman@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/abdullah.alothman"
+    },
+    {
+        "Name": "أ.احمد عبدالوهاب احمد الشريف",
+        "doctor_info": [
+            "معيد",
+            "قسم إدارة الموارد البشرية",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "ah.alsharif@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ah.alsharif"
+    },
+    {
+        "Name": "أ.عفاف معوض عائض الحربي",
+        "doctor_info": [
+            "معيد",
+            "قسم المحاسبة",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "afa.alharbi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/afa.alharbi"
+    },
+    {
+        "Name": "أ.عبدالله مسعود عبدالله السهلي",
+        "doctor_info": [
+            "معيد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "a.alsahli@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alsahli"
+    },
+    {
+        "Name": "أ.عبدالرحمن بن عبدالله علي الحقباني",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "abd.alhaqbani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/abd.alhaqbani"
+    },
+    {
+        "Name": "أ.نداء ناصر محمد الحصان",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "n.alhisan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.alhisan"
+    },
+    {
+        "Name": "أ.شيخه راشد عبدالله الحبشان",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "s.alhabshan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.alhabshan"
+    },
+    {
+        "Name": "أ.مبارك مسلم خليفه الزعير",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "m.alzuayr@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alzuayr"
+    },
+    {
+        "Name": "أ.عبدالرحمن محمد سعيد القحطاني",
+        "doctor_info": [
+            "معيد",
+            "قسم إدارة الأعمال",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "ab.alqahtani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ab.alqahtani"
+    },
+    {
+        "Name": "أ.أشواق محمد بنيان ال عاتي",
+        "doctor_info": [
+            "معيد",
+            "قسم الدراسات الاسلامية",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "a.alaati@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alaati"
+    },
+    {
+        "Name": "أ.مبارك محمد عبدالله الشغاثرة",
+        "doctor_info": [
+            "معيد",
+            "قسم إدارة الأعمال",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "m.alshaghathirah@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alshaghathirah"
+    },
+    {
+        "Name": "أ.عبدالحكيم مرضي فهد ال حبشان",
+        "doctor_info": [
+            "معيد",
+            "قسم إدارة الأعمال",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "a.alhabshan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.alhabshan"
+    },
+    {
+        "Name": "أ.ندى صالح محمد المديهش",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة العربية و آدابها",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "n.almudihsh@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.almudihsh"
+    },
+    {
+        "Name": "أ.ايمان فهد مبارك الدوسري",
+        "doctor_info": [
+            "معيد",
+            "قسم الفيزياء",
+            "كلية العلوم والدراسات الانسانية بالأفلاج"
+        ],
+        "email": "e.aldussri@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/e.aldussri"
+    },
+    {
+        "Name": "أ.رائد فهد فلاح الحربي",
+        "doctor_info": [
+            "معيد",
+            "قسم علوم الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "rf.alharbi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/rf.alharbi"
+    },
+    {
+        "Name": "أ.فاتن محمد ابراهيم تكروني",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة العربية و آدابها",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "f.mohammad@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.mohammad"
+    },
+    {
+        "Name": "أ.خالد عايض ناصر الدوسري",
+        "doctor_info": [
+            "معيد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "ka.aldosari@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ka.aldosari"
+    },
+    {
+        "Name": "أ.البندري محمد علي آل بادي",
+        "doctor_info": [
+            "معيد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "alb.aldosari@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/alb.aldosari"
+    },
+    {
+        "Name": "أ.مرام منصور عبدالعزيز الحازمي",
+        "doctor_info": [
+            "معيد",
+            "قسم الدراسات الاسلامية",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "m.alhazmi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alhazmi"
+    },
+    {
+        "Name": "أ.عبدالله فهد عبدالله الدخيل",
+        "doctor_info": [
+            "معيد",
+            "قسم إدارة الأعمال",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "a.aldakhial@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.aldakhial"
+    },
+    {
+        "Name": "أ.خالد عبدالعزيز ابراهيم المبارك",
+        "doctor_info": [
+            "معيد",
+            "قسم هندسة الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "k.almubarak@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/k.almubarak"
+    },
+    {
+        "Name": "أ.اسماء محمد موسى الزهراني",
+        "doctor_info": [
+            "معيد",
+            "قسم علوم الحاسب",
+            "كلية هندسة وعلوم الحاسب بالخرج"
+        ],
+        "email": "asma.alzahrani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/asma.alzahrani"
+    },
+    {
+        "Name": "أ.مسيب علي محمد ال وافي",
+        "doctor_info": [
+            "معيد",
+            "قسم الرياضيات",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "m.alwafi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alwafi"
+    },
+    {
+        "Name": "أ.علي مبارك عبدالعزيز الدوسري",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة العربية و آدابها",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "a.aldaosari@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.aldaosari"
+    },
+    {
+        "Name": "أ.محمد عبدالكريم محمد عبدالكريم",
+        "doctor_info": [
+            "معيد",
+            "قسم علوم الحاسب",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "m.abdulkarim@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.abdulkarim"
+    },
+    {
+        "Name": "أ.فلاح شافي محمد الدوسري",
+        "doctor_info": [
+            "معيد",
+            "قسم الرياضيات",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "f.aldawsri@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.aldawsri"
+    },
+    {
+        "Name": "أ.عبدالرحمن سلطان مقرن المقيرن",
+        "doctor_info": [
+            "معيد",
+            "قسم الدراسات الإسلامية",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "a.almuqayrin@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.almuqayrin"
+    },
+    {
+        "Name": "أ.سعود سعيد عبدالله الدوسري",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "s.almasaud@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/s.almasaud"
+    },
+    {
+        "Name": "أ.سعد سعود عبدالله الدوسري",
+        "doctor_info": [
+            "معيد",
+            "قسم الدراسات الإسلامية",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "sa.aldosari@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/sa.aldosari"
+    },
+    {
+        "Name": "أ.محمد سعود خلف الدوسري",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "ms.aldossari@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ms.aldossari"
+    },
+    {
+        "Name": "أ.منصور فهاد طنف الدوسري",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "man.aldossari@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/man.aldossari"
+    },
+    {
+        "Name": "أ.راجح سعد عبدالله السلولي",
+        "doctor_info": [
+            "معيد",
+            "قسم علوم الحاسب",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "r.alsololi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/r.alsololi"
+    },
+    {
+        "Name": "أ.سيف عبدالله محمد التميمي",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "sai.altamimi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/sai.altamimi"
+    },
+    {
+        "Name": "أ.يحيى عبدالرحمن يحيى اليحيى",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية الآداب والعلوم بوادي الدواسر"
+        ],
+        "email": "y.alyahya@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/y.alyahya"
+    },
+    {
+        "Name": "أ.بيان محمد عبدالخالق القرني",
+        "doctor_info": [
+            "معيد",
+            "قسم التمريض",
+            "كلية العلوم الطبية التطبيقية بالخرج"
+        ],
+        "email": "b.alqarni@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/b.alqarni"
+    },
+    {
+        "Name": "أ.عائشة مهدي محمد العمري",
+        "doctor_info": [
+            "معيد",
+            "قسم العلاج الطبيعي والتأهيل الصحي",
+            "كلية العلوم الطبية التطبيقية بالخرج"
+        ],
+        "email": "am.alamri@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/am.alamri"
+    },
+    {
+        "Name": "أ.ناصر عيسى ناصر المعمر",
+        "doctor_info": [
+            "معيد",
+            "قسم علوم المختبرات الطبية",
+            "كلية العلوم الطبية التطبيقية بالخرج"
+        ],
+        "email": "n.almoammar@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.almoammar"
+    },
+    {
+        "Name": "أ.عبدالعزيز محمد علي شراحيلي",
+        "doctor_info": [
+            "معيد",
+            "قسم علوم المختبرات الطبية",
+            "كلية العلوم الطبية التطبيقية بالخرج"
+        ],
+        "email": "a.sharahili@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.sharahili"
+    },
+    {
+        "Name": "أ.فوزية عبدالله راشد البيضاني",
+        "doctor_info": [
+            "معيد",
+            "قسم علوم المختبرات الطبية",
+            "كلية العلوم الطبية التطبيقية بالخرج"
+        ],
+        "email": "f.albaydhani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/f.albaydhani"
+    },
+    {
+        "Name": "أ.حنان عوضه مجدع الاسمري",
+        "doctor_info": [
+            "معيد",
+            "قسم نظم المعلومات",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "h.alasmari@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.alasmari"
+    },
+    {
+        "Name": "أ.حاتم صالح عبدالرحمن الشهري",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة الإنجليزية وآدابها",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "hs.alshehri@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/hs.alshehri"
+    },
+    {
+        "Name": "أ.عبدالله ابراهيم فخري التركي",
+        "doctor_info": [
+            "معيد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "ai.alturki@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ai.alturki"
+    },
+    {
+        "Name": "أ.نوف راشد حسين العجيري",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة العربية و آدابها",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "n.alejeri@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/n.alejeri"
+    },
+    {
+        "Name": "أ.بشرى محمد عبدالرحمن بن سرحان",
+        "doctor_info": [
+            "معيد",
+            "قسم نظم المعلومات",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "b.binsarhan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/b.binsarhan"
+    },
+    {
+        "Name": "أ.قوت ابراهيم سعد اليحيى",
+        "doctor_info": [
+            "معيد",
+            "قسم اللغة العربية و آدابها",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "q.alyhya@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/q.alyhya"
+    },
+    {
+        "Name": "أ.منيرة عبدالمحسن عبدالله العجلان",
+        "doctor_info": [
+            "معيد",
+            "قسم الدراسات الإسلامية",
+            "كلية العلوم والدراسات الانسانية بحوطة بني تميم"
+        ],
+        "email": "m.alajlan@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alajlan"
+    },
+    {
+        "Name": "أ.اماني محمد ناصر الدخيل",
+        "doctor_info": [
+            "معيد",
+            "قسم العلوم التربوية",
+            "كلية التربية بالخرج"
+        ],
+        "email": "a.aidakheil@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/a.aidakheil"
+    },
+    {
+        "Name": "أ.محمد هذلول محمد الدوسري",
+        "doctor_info": [
+            "معيد",
+            "قسم التربية الخاصة",
+            "كلية التربية بوادي الدواسر"
+        ],
+        "email": "moh.aldossari@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/moh.aldossari"
+    },
+    {
+        "Name": "أ.حميد عبدالله مبارك الدوسري",
+        "doctor_info": [
+            "معيد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "ha.aldawsari@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/ha.aldawsari"
+    },
+    {
+        "Name": "أ.سعد محمد حمد الودعاني",
+        "doctor_info": [
+            "معيد",
+            "قسم الرياضيات",
+            "كلية العلوم والدراسات الانسانية بالسليل"
+        ],
+        "email": "sm.alwadani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/sm.alwadani"
+    },
+    {
+        "Name": "أ.هديل جعفر علي الاسمري",
+        "doctor_info": [
+            "معيد",
+            "قسم الادارة",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "h.alasmri@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/h.alasmri"
+    },
+    {
+        "Name": "أ.ابتسام ضويحي فنيطل العنزي",
+        "doctor_info": [
+            "معيد",
+            "قسم المحاسبة",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "iq.alanazi@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/iq.alanazi"
+    },
+    {
+        "Name": "أ.محمد عبدالله محمد الخريف",
+        "doctor_info": [
+            "معيد",
+            "قسم إدارة الموارد البشرية",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "m.alkhurayef@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/m.alkhurayef"
+    },
+    {
+        "Name": "أ.راكان مسفر حمود الحقباني",
+        "doctor_info": [
+            "معيد",
+            "قسم نظم المعلومات الإدارية",
+            "كلية إدارة الأعمال بالخرج"
+        ],
+        "email": "r.alhaqbani@psau.edu.sa",
+        "href": "https://faculty.psau.edu.sa/ar/psau/facultymember/r.alhaqbani"
+    }
+]
