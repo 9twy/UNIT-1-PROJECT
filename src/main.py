@@ -5,11 +5,14 @@ import graduationProjectExhibition
 import invesment
 import registration 
 from colorama import Fore, Back, Style
+import pyfiglet
+# here we run the code..
 
 def register():
- 
-    print(Fore.CYAN+"Welcom to RGU System..")
-    # try:
+    '''detrmine the registration option
+    args:
+    return user object'''
+    print(Fore.CYAN+"\033[4m" + "WELCOME TO RGU SYSTEM."+ "\033[0m")
     while True:
         try:
             signset=["Sign in","Sign up"]
@@ -29,13 +32,10 @@ def register():
         except Exception as e:
             print(e)
             
-            
-    # except ValueError as v :
-    #     print(v)
-    # except Exception as e:
-    #     print("Something went wrong!!")
+  
     return user
 def servicess(user:clasess.User):
+ '''base on the type of the user display he's dashboard'''
  
  try:
     if user.getClassName()=="Student":
@@ -53,6 +53,11 @@ def servicess(user:clasess.User):
 
 
 def studentInterface(currentUser:clasess.Student):
+    '''dashboard for the student 
+    args:
+    user object
+    return 
+    none'''
     
     while True:
         print("\n\n")
@@ -82,6 +87,7 @@ def studentInterface(currentUser:clasess.Student):
         except TimeoutError as T:
             print(T)
 def faculatyInterface(currentUser:clasess.FaculatyMember):
+    '''dashboard for the faculaty member..'''
     while True:
       try:
         options=["Search about a faculaty member","Email a faculaty member","Update account Information","exit"]
@@ -111,6 +117,7 @@ def faculatyInterface(currentUser:clasess.FaculatyMember):
           print("somthing went wrong!!")
 
 def investorInterface(currentUser:clasess.Investor):
+    '''dashboard for the investor '''
     while True:
       try:
         options=["Search about a faculaty member","Email a faculaty member",'Graduation projects exhibition',"Update account Information","exit"]
@@ -134,7 +141,7 @@ def investorInterface(currentUser:clasess.Investor):
         elif choise==5:
             break
         else:
-                raise ValueError("Invalid number!")
+                raise ValueError(Fore.RED+"Invalid number!"+Fore.RED)
       except ValueError as v:
           print(v)
       except TimeoutError as T:
@@ -153,26 +160,4 @@ def investorInterface(currentUser:clasess.Investor):
 
 if __name__=="__main__":
     servicess(register())
-    
-    
-
-
-
-
-
-
-
-# moreInfo=input("Need more info about the system enter 1 , enter 2 to exit: ")
-# if moreInfo=='1':
-#     print(Fore.YELLOW+'''
-
-# Our system is designed to facilitate communication between students and faculty members in the academic field. It caters to universities across Saudi cities, enabling students to connect with faculty
-# members from institutions like KSU, PNU, and PSAU.
-# The system allows students to email faculty members by simply entering the faculty member's name. Additionally, students can retrieve general information about the faculty member.
-# Furthermore, the system enables students to add their graduation projects. This provides investors with the opportunity to review the projects and contact the students directly. 
-# The system will automatically send an email to the student when an investor expresses interest in their work. The goal of this system is to create a seamless and efficient platform for academic collaboration and networking, benefiting both students and faculty members across the various universities in Saudi Arabia.
-
-#                         ''')
-# # elif moreInfo=='2':
-# #     break
 

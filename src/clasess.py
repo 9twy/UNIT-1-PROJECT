@@ -2,12 +2,14 @@ import re
 #parent calss
 from prettytable import PrettyTable
 import pickle
+from colorama import Fore
 
 
 
 
 
 class User:
+    
     
     def __init__(self,name,email,password) -> None:            
             self.setName(name)
@@ -18,7 +20,7 @@ class User:
         if len(name.split(' '))>=3:
             self.__name=name
         else:
-            raise ValueError("please Enter your full name correctly (eg.ali ahmed alghamdi)")
+            raise ValueError(Fore.Red+"please Enter your full name correctly (eg.ali ahmed alghamdi)"+Fore.RESET)
     def setEmail(self,email:str):
         if re.search(r'^[a-z0-9]+[._]?[a-z0-9]+@[a-z0-9.-]+\.[a-z]{2,}$',email) :
             self.__email=email

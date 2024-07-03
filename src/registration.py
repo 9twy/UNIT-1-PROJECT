@@ -8,6 +8,9 @@ from invesment import showAvaliableProjects
 import graduationProjectExhibition
 from colorama import Fore, Back, Style
 def signUp():
+    '''take the information of the user as an input
+    return 
+    user:User'''
     newUser:dict={}
     while True:
         try:    
@@ -56,6 +59,7 @@ def signUp():
     
 
 def logIn():
+    '''takes the email and password as an input to sing in '''
     email=input("Enter your email: ")
     password=maskpass.askpass("Enter your password: ",mask="•")
     with open ('reg.pickle','rb') as file:
@@ -77,6 +81,9 @@ def logIn():
 
     
 def updateUserInfo(currentUser):
+    '''update the information and delete the account 
+    args: 
+    currentUser:User'''
     try:
         update=input('Enter what you need to update (name ,email or password ) or enter delete for deleting your account : ')
         if update.lower()=='name':   
@@ -95,6 +102,9 @@ def updateUserInfo(currentUser):
          print(v)
 
 def updateName(userEmail:object)->bool:
+    '''update the name of the user
+    args:
+    user '''
     newName=input("enter your name: ")
     usersInfo=[]
     isNameUpdated=False
@@ -133,6 +143,7 @@ def updateName(userEmail:object)->bool:
 
  
 def updateEmail(userEmail:str):
+    
     usersInfo=[]
     isEmailUpdated=False
     newEmail=input("Enter the new email: ")

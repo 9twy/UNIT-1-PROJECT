@@ -8,10 +8,13 @@ import os
 import registration
 from colorama import Fore
 def showAvaliableProjects():
+    '''display the avaliable projects
+    takes no args
+    return the project object'''
     # table.add_row([counter,user['obj'].getProject().getProjectTitle(),user['obj'].getProject().getProjectCategory(),user['obj'].getProject().getSupercisorName(),user['obj'].getProject().getProjectFile(),user['obj'].getProject().getFundingGoal()],divider=True)
     usersdicts=[]
     table=PrettyTable()
-    table.field_names=['no','Project Title','Project Category','Supervisor','Project File','Funding Goal']
+    table.field_names=[Fore.YELLOW+'no','Project Title','Project Category','Supervisor','Project File','Funding Goal'+Fore.RESET]
     with open('reg.pickle','rb') as file :
         while True:
             try:
@@ -37,13 +40,18 @@ def showAvaliableProjects():
     else :
         raise ValueError (Fore.RED+"Please just Enter yes or no. try again"+Fore.RESET)
 def contactStudent(studentEmail,investorEmail):
+    '''send email to the user
+    args:
+    student email :str
+    investor email:str
+    return none'''
     print("Fill up email content below: ")
     emailSender=os.environ.get('my_email')
     password=os.environ.get('pass_key_gmail')
     subject=input("Enter the subject: ")
     body=input("Enter the body of your message: ")
     tail=input("Enter message tail: ")
-    body+=f"{body}\n{tail}"
+    body+=f"\n{tail}"
     em=EmailMessage()
     em['From']=emailSender
     em['To']=studentEmail
@@ -60,7 +68,10 @@ def contactStudent(studentEmail,investorEmail):
         print("Failed to send email")
 
 def investingProjects(userProject:Project,investor:Investor):
-    # userProject=showAvaliableProjects()
+    '''pass args to contactStudent function
+    args:
+    project:Project
+    investor:Investor'''
     contactStudent(userProject.getOwner().getEmail(),investor.getEmail())
         
 

@@ -7,6 +7,9 @@ from colorama import Fore
 # EMail passkey yozq hbqh sddw ypel
 
 def emailFaculaty():
+    '''enable emailing the faculaty member 
+    args :
+    none'''
     try:
         doctorName=input("please Enter the name of faculaty member to email: ")
         if searchFaculaty(doctorName):

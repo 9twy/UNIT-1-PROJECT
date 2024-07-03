@@ -5,17 +5,20 @@ import time
 from prettytable import PrettyTable
 from colorama import Fore
 def createProject(currentUser:object):
+    '''creates a project in the user object
+    args: 
+    currentUser:User'''
     usersdicts=[]
     
     projectTitle=input("Enter project Title: ")
     print("Please select a category for your graduation project:")
-    categories = [
+    categories = Fore.YELLOW+[
         "Software Development",
         "Data Science and Artificial Intelligence",
         "Embedded Systems and IoT",
         "Networking and Cybersecurity",
         "Business and Information Systems"
-    ]
+    ]+Fore.RESET
     for idx, option in enumerate(categories, start=1):
         print(f"{idx}. {option}")
     
@@ -50,6 +53,9 @@ def createProject(currentUser:object):
         print("project added successfully.")
 
 def updateProject(currentUser:object):
+    '''update the project information such as project title
+    args:
+    current user:User'''
     usersdicts=[]
     userEmail=currentUser.getEmail()
     with open ('reg.pickle','rb') as file:
@@ -65,7 +71,7 @@ def updateProject(currentUser:object):
                       raise ValueError (Fore.RED+"You have't add any project!"+Fore.RESET)
 
     userEmail=currentUser.getEmail()
-    options=['update project title','update projct category','upload the project file']
+    options=['update project title','update projct category','change the project file']
     for indx , option in enumerate(options,start=1):
          print(f"{indx}:{option}")
     what_to_update=input("Enter a number of your choise: ")
@@ -80,6 +86,7 @@ def updateProject(currentUser:object):
                 pickle.dump(i,file)
             print('The project name updated.')
     elif what_to_update=='2':
+        print('\n\n')
         print("Please select a category for your graduation project: ")
         categories = [
             "Software Development",
