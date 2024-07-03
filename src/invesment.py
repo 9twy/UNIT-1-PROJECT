@@ -62,7 +62,7 @@ def contactStudent(studentEmail,investorEmail):
         with smtplib.SMTP_SSL('smtp.gmail.com',465,context=context) as smtp:
             smtp.login(emailSender, password)
             smtp.sendmail(emailSender,studentEmail,em.as_string())
-            print("email sent succssfully.")
+            print(Fore.GREEN+"email sent succssfully."+Fore.RESET)
     except Exception as e:
         print(e)
         print("Failed to send email")
