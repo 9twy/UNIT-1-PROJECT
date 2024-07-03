@@ -128,7 +128,7 @@ def investorInterface(currentUser:clasess.Investor):
         elif choise==3:
             choise=invesment.showAvaliableProjects()
             if choise:
-                invesment.investingProjects(currentUser)
+                invesment.investingProjects(choise,currentUser)
         elif choise==4:
             registration.updateUserInfo(currentUser)
         elif choise==5:

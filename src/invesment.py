@@ -26,23 +26,24 @@ def showAvaliableProjects():
     for indx , user in enumerate(usersdicts,start=1):
         if user['obj'].getProject():
             table.add_row([indx,user['obj'].getProject().getProjectTitle(),user['obj'].getProject().getProjectCategory(),user['obj'].getProject().getSupercisorName(),user['obj'].getProject().getProjectFile(),user['obj'].getProject().getFundingGoal()],divider=True)
-        print(table)
+    print(table)
     choise=input("Do you want to invest on one of these projects? (enter yes or no): ")
     if choise.lower() =='yes':
 
-        selection=int(input("please Enter the number of projects above to investe on: "))
+        selection=int(input("please Enter the number of projects above to contact with project owner : "))
         return usersdicts[selection-1]['obj'].getProject()
     elif choise.lower()=='no':
         print(Fore.GREEN+"Returning to Home page.."+Fore.RESET) 
     else :
         raise ValueError (Fore.RED+"Please just Enter yes or no. try again"+Fore.RESET)
 def contactStudent(studentEmail,investorEmail):
+    print("Fill up email content below: ")
     emailSender=os.environ.get('my_email')
     password=os.environ.get('pass_key_gmail')
     subject=input("Enter the subject: ")
     body=input("Enter the body of your message: ")
-    tile=input("Enter the tile: ")
-    body+=f"\n{tile+body}"
+    tail=input("Enter message tail: ")
+    body+=f"{body}\n{tail}"
     em=EmailMessage()
     em['From']=emailSender
     em['To']=studentEmail
@@ -58,9 +59,9 @@ def contactStudent(studentEmail,investorEmail):
         print(e)
         print("Failed to send email")
 
-def investingProjects(investor:Investor):
-    project=showAvaliableProjects()
-    contactStudent(project.getOwner().getEmail(),investor.getEmail())
+def investingProjects(userProject:Project,investor:Investor):
+    # userProject=showAvaliableProjects()
+    contactStudent(userProject.getOwner().getEmail(),investor.getEmail())
         
 
     
