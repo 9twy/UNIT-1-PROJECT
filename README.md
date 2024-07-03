@@ -1,6 +1,9 @@
 # RGU - Riyadh Gate Universities
+<div align="center">
+    <img src="assesst/rgu-high-resolution-logo-white-transparent.png" alt="RGU Logo" width="200"/>
+</div>
 
-![RGU Logo](assesst/rgu-high-resolution-logo-white-transparent.png)
+
 
 ## Overview
 RGU (Riyadh Gate Universities) is a command-line interface (CLI) system designed to streamline the process of searching for faculty members across multiple universities in Riyadh, namely King Saud University, Prince Sattam bin Abdulaziz University, and Princess Nourah bint Abdulrahman University. The system also allows students to publish their graduation projects and provides investors a platform to explore and invest in these projects.
@@ -64,7 +67,6 @@ As an investor, I want to:
 ## Getting Started
 ### Prerequisites
 - Python 3.12
-- 
 ### Installation
 1. Clone the repository:
     ```bash
