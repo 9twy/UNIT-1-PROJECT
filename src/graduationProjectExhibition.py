@@ -13,14 +13,14 @@ def createProject(currentUser:object):
     projectTitle=input("Enter project Title: ")
     print("Please select a category for your graduation project:")
     categories = [
-        Fore.YELLOW+"Software Development",
+        "Software Development",
         "Data Science and Artificial Intelligence",
         "Embedded Systems and IoT",
         "Networking and Cybersecurity",
-        "Business and Information Systems"+Fore.RESET
+        "Business and Information Systems"
     ]
     for idx, option in enumerate(categories, start=1):
-        print(f"{idx}. {option}")
+        print(Fore.YELLOW+f"{idx}. {option}"+Fore.RESET)
     
     try:
             choice = int(input("Enter the number of your choice: "))
@@ -137,7 +137,7 @@ def updateProject(currentUser:object):
         with open('reg.pickle','wb') as file:
             for i in usersdicts:
                 pickle.dump(i,file)
-            print(Fore.GREEN+'The project File updated.'+Fore.GREEN)
+            print(Fore.GREEN+'The project File updated.'+Fore.RESET)
          
         
 

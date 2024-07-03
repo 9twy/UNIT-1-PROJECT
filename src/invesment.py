@@ -30,7 +30,7 @@ def showAvaliableProjects():
         if user['obj'].getProject():
             table.add_row([indx,user['obj'].getProject().getProjectTitle(),user['obj'].getProject().getProjectCategory(),user['obj'].getProject().getSupercisorName(),user['obj'].getProject().getProjectFile(),user['obj'].getProject().getFundingGoal()],divider=True)
     print(table)
-    choise=input(Fore.RESET+"Do you want to invest on one of these projects? (enter yes or no): ")
+    choise=input("Do you want to invest on one of these projects? (enter yes or no): ")
     if choise.lower() =='yes':
 
         selection=int(input("please Enter the number of projects above to contact with project owner : "))

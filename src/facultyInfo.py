@@ -23,7 +23,7 @@ def searchFaculaty(doctorName:str) -> str:
                     
                         if re.search(f'^.*{doctorName[0]}.*{doctorName[-1]}$',i['Name']) :
                             table=PrettyTable()
-                            table.field_names=[Fore.YELLOW+'University','Full Name','Academic Rank','Department','College'+Fore.RESET]
+                            table.field_names=['University','Full Name','Academic Rank','Department','College']
                             table.add_row([reashpeToArabic('جامعة الامير سطام بن عبدالعزيز'), reashpeToArabic( i['Name']),reashpeToArabic(i['doctor_info'][0]),reashpeToArabic(i['doctor_info'][1]),reashpeToArabic(i['doctor_info'][2])])
                             flage=False
                             if table !=None:

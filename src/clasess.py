@@ -40,6 +40,7 @@ class User:
         return self.__email
     def getPassword(self):
         return self.__password
+    
     # def __str__(self) -> str:
     #     return "printiing the toString"
     def ststus(self)->bool:

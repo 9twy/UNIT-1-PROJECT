@@ -12,13 +12,13 @@ def register():
     '''detrmine the registration option
     args:
     return user object'''
-    print(Fore.CYAN+"\033[4m" + "WELCOME TO RGU SYSTEM."+ "\033[0m")
+    print(Fore.CYAN+"\033[4m" + "WELCOME TO RGU SYSTEM."+ "\033[0m"+Fore.RESET)
     while True:
         try:
             signset=["Sign in","Sign up"]
             for index ,option in enumerate(signset,start=1):
-                print(Fore.RESET+f"{index}.{option}")
-            sign=input(Fore.RESET+"Enter a number of above: ")
+                print(f"{index}.{option}")
+            sign=input("Enter a number of above: ")
             if sign=='1':
                 user=registration.logIn()
             elif sign=='2':

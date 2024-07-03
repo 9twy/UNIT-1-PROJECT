@@ -75,7 +75,7 @@ def logIn():
                     print(v)
                         
             except Exception:
-                print(Fore.RED+"incorrect Email or password try again"+Fore.RED)
+                print(Fore.RED+"incorrect Email or password try again"+Fore.RESET)
                     
                
 
