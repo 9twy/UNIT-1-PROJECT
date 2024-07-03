@@ -12,13 +12,13 @@ def createProject(currentUser:object):
     
     projectTitle=input("Enter project Title: ")
     print("Please select a category for your graduation project:")
-    categories = Fore.YELLOW+[
-        "Software Development",
+    categories = [
+        Fore.YELLOW+"Software Development",
         "Data Science and Artificial Intelligence",
         "Embedded Systems and IoT",
         "Networking and Cybersecurity",
-        "Business and Information Systems"
-    ]+Fore.RESET
+        "Business and Information Systems"+Fore.RESET
+    ]
     for idx, option in enumerate(categories, start=1):
         print(f"{idx}. {option}")
     
@@ -50,7 +50,8 @@ def createProject(currentUser:object):
     with open('reg.pickle','wb') as file:
         for i in usersdicts:
             pickle.dump(i,file)
-        print("project added successfully.")
+        print()
+        print(Fore.GREEN+"project added successfully."+Fore.RESET)
 
 def updateProject(currentUser:object):
     '''update the project information such as project title
@@ -84,7 +85,7 @@ def updateProject(currentUser:object):
         with open('reg.pickle','wb') as file:
             for i in usersdicts:
                 pickle.dump(i,file)
-            print('The project name updated.')
+            print(Fore.GREEN+'The project name updated.'+Fore.RESET)
     elif what_to_update=='2':
         print('\n\n')
         print("Please select a category for your graduation project: ")
@@ -119,7 +120,7 @@ def updateProject(currentUser:object):
         with open('reg.pickle','wb') as file:
             for i in usersdicts:
                 pickle.dump(i,file)
-            print('The project category updated.')
+            print(Fore.GREEN+'The project category updated.'+Fore.RESET)
     elif what_to_update=='3':
         newFile=input("Enter the new name for the prject: ")
         usersdicts=[]
@@ -136,7 +137,7 @@ def updateProject(currentUser:object):
         with open('reg.pickle','wb') as file:
             for i in usersdicts:
                 pickle.dump(i,file)
-            print('The project File updated.')
+            print(Fore.GREEN+'The project File updated.'+Fore.GREEN)
          
         
 

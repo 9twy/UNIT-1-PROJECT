@@ -15,7 +15,7 @@ def signUp():
     while True:
         try:    
             
-            name=input("Please Enter your full name (eg. ali ahmed alghamdi): ")
+            name=input("Please Enter your full name (eg. ali ahmed mohammed): ")
             email=input("please Enter your email: ")
             password=maskpass.askpass("Enter your password: ",mask="•")
             userTypes=['Student','Faculaty member',"Investor"]
@@ -126,8 +126,8 @@ def updateName(userEmail:object)->bool:
                     for userInfo in usersInfo:
                         if userInfo['email']==userEmail:
                             userInfo['obj'].setName(newName)
-                            print("updated succsfluy")
                             isNameUpdated=True
+                    print(Fore.GREEN+"updated succsfluy"+Fore.RESET)
                     if  isNameUpdated==False:
                         raise ValueError("some thing went wrong!, the email not found")
                                 
@@ -241,10 +241,11 @@ def deleteAccount(userEmail:str):
                     for userInfo in usersInfo:
                         if userInfo['email']==userEmail and userInfo['obj'].getPassword()==Password:
                             usersInfo.remove(userInfo)
-                            print("deleted successfully. ")
+                            print(Fore.GREEN+"deleted successfully. "+Fore.RESET)
                             isAccountDeleted=True
+                            raise TimeoutError(Fore.GREEN+"Thank you for visiting our system.."+Fore.RESET)
                     if  isAccountDeleted==False:
-                        raise ValueError("some thing went wrong!, the email not found or the password incorrect.")
+                        raise ValueError(Fore.RED+"some thing went wrong!, the email not found or the password incorrect."+Fore.RED)
                                 
 
 
@@ -253,6 +254,6 @@ def deleteAccount(userEmail:str):
     with open('reg.pickle','wb') as file:
             for i in usersInfo:
                 pickle.dump(i,file)
-            raise TimeoutError(Fore.GREEN+"Thank you for visiting our system.."+Fore.RESET)
+            
     
 

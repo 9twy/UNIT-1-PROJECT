@@ -20,7 +20,7 @@ class User:
         if len(name.split(' '))>=3:
             self.__name=name
         else:
-            raise ValueError(Fore.Red+"please Enter your full name correctly (eg.ali ahmed alghamdi)"+Fore.RESET)
+            raise ValueError(Fore.RED+"please Enter your full name correctly (eg.ali ahmed alghamdi)"+Fore.RESET)
     def setEmail(self,email:str):
         if re.search(r'^[a-z0-9]+[._]?[a-z0-9]+@[a-z0-9.-]+\.[a-z]{2,}$',email) :
             self.__email=email

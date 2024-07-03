@@ -82,10 +82,13 @@ def studentInterface(currentUser:clasess.Student):
                 registration.updateUserInfo(currentUser)
             elif choise==6:
                 break
+            else:
+                raise ValueError(Fore.RED+"Please Enter a valid number"+Fore.RESET)
         except ValueError as v:
-            print("Please Try To Enter a digit Number between 1-4")
+            print(Fore.RED+f'{v}'+Fore.RESET)
         except TimeoutError as T:
             print(T)
+            break
 def faculatyInterface(currentUser:clasess.FaculatyMember):
     '''dashboard for the faculaty member..'''
     while True:
@@ -112,6 +115,7 @@ def faculatyInterface(currentUser:clasess.FaculatyMember):
           print(v)
       except TimeoutError as T:
             print(T)
+            break
       except Exception as e:
           print(e)
           print("somthing went wrong!!")
@@ -146,6 +150,7 @@ def investorInterface(currentUser:clasess.Investor):
           print(v)
       except TimeoutError as T:
             print(T)
+            break
       except IndexError as i:
           print(Fore.RED+"Please Enter a valid number of above projects! "+Fore.RESET)
       except Exception as e:
