@@ -1,6 +1,6 @@
 # RGU - Riyadh Gate Universities
 
-![RGU Logo](assesst/rgu-high-resolution-logo-black-transparent.png)
+![RGU Logo](assesst/rgu-high-resolution-logo-white-transparent.png)
 
 ## Overview
 RGU (Riyadh Gate Universities) is a command-line interface (CLI) system designed to streamline the process of searching for faculty members across multiple universities in Riyadh, namely King Saud University, Prince Sattam bin Abdulaziz University, and Princess Nourah bint Abdulrahman University. The system also allows students to publish their graduation projects and provides investors a platform to explore and invest in these projects.
